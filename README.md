@@ -45,4 +45,4 @@ __9__.[onevcat的技术博客](http://onevcat.com/2013/10/vc-transition-in-ios7/
 
 ###点击某个图片进入一个网页,比如我想点击github的icorn然后再进入www.github.com
 [![image]](http://www.github.com/)
-[image]: http://github.com/github.png "github"
+[image]: https://github.com/zfx5130/iOS-Blog-Share/shotImage/9919.png "github"
