@@ -1,6 +1,8 @@
 # iOS-Blog-Share
 
 ###收集一些自己日常工作和学习中遇到的好的博客和技术网站(持续更新中..)
+[![head]](http://blog.csdn.net/zfx5130?viewmode=contents)
+[head]:https://github.com/zfx5130/iOS-Blog-Share/shotImage/9919.png "点击图片进入我的博客"
 
 #####一.技术文章类
 __1__.[github上搭建属于自己的博客](http://msching.github.io/blog/2014/04/11/starting/).
@@ -13,7 +15,6 @@ __1__.[iOS开发系列--通知与消息机制](http://www.cnblogs.com/kenshincui
 
 __2__.[iOS开发系列--动画效果](iOS开发系列--让你的应用“动”起来)
 
-__3__.
 
 #####三.开发资源类
 __1__.[程序员资源网](http://info.9iphp.com/ios-mac-resources/)
@@ -42,7 +43,3 @@ __8__.[casatwy的技术博客](http://casatwy.com/)
 
 __9__.[onevcat的技术博客](http://onevcat.com/2013/10/vc-transition-in-ios7/
 )
-
-###点击某个图片进入一个网页,比如我想点击github的icorn然后再进入www.github.com
-[![image]](http://www.github.com/)
-[image]: https://github.com/zfx5130/iOS-Blog-Share/shotImage/9919.png "头像"
