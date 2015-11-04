@@ -2,7 +2,7 @@
 
 ###收集一些自己日常工作和学习中遇到的好的博客和技术网站(持续更新中..)
 [![head]](http://blog.csdn.net/zfx5130?viewmode=contents)
-[head]:https://github.com/zfx5130/iOS-Blog-Share/shotImage/9919.png "点击图片进入我的博客"
+[head]:https://raw.githubusercontent.com/zfx5130/iOS-Blog-Share/master/shotImage/icon.png "点击图片进入我的博客"
 
 #####一.技术文章类
 __1__.[github上搭建属于自己的博客](http://msching.github.io/blog/2014/04/11/starting/).
