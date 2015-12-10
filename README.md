@@ -5,9 +5,12 @@
 [head]:https://raw.githubusercontent.com/zfx5130/iOS-Blog-Share/master/shotImage/icon.png "点击图片进入我的博客"
 
 #####一.技术文章类
-__1__.[github上搭建属于自己的博客](http://msching.github.io/blog/2014/04/11/starting/).
+__1__.[①github上搭建属于自己的博客](http://msching.github.io/blog/2014/04/11/starting/)<br/>
+__2__.[②github上搭建属于自己的博客](ravenw.com/blog/2011/08/27/blog-with-jekyll/)<br/>
+__3__.[③github上搭建属于自己的博客](http://limboy.me/tech/2010/08/25/make-github-as-blog-engine.html)
 
-__2__.[斯坦福iOS8课程](https://github.com/X140Yu/Developing_iOS_8_Apps_With_Swift
+
+__4__.[斯坦福iOS8课程](https://github.com/X140Yu/Developing_iOS_8_Apps_With_Swift
 )
 
 #####二.iOS开发类
@@ -43,3 +46,8 @@ __8__.[casatwy的技术博客](http://casatwy.com/)
 
 __9__.[onevcat的技术博客](http://onevcat.com/2013/10/vc-transition-in-ios7/
 )
+
+#####五.技术文章类
+######jsPath
+__1__.[jsPath系列](http://blog.cnbang.net/tech/2808/)
+
