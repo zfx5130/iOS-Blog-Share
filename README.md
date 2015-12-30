@@ -4,28 +4,25 @@
 [![head]](http://blog.csdn.net/zfx5130?viewmode=contents)
 [head]:https://raw.githubusercontent.com/zfx5130/iOS-Blog-Share/master/shotImage/icon.png "点击图片进入我的博客"
 
-#####一.技术文章类
-__1__.[①github上搭建属于自己的博客](http://msching.github.io/blog/2014/04/11/starting/)<br/>
-__2__.[②github上搭建属于自己的博客](ravenw.com/blog/2011/08/27/blog-with-jekyll/)<br/>
-__3__.[③github上搭建属于自己的博客](http://limboy.me/tech/2010/08/25/make-github-as-blog-engine.html)
+#####一.iOS学习资料类
+__1__.[斯坦福iOS8课程](https://github.com/X140Yu/Developing_iOS_8_Apps_With_Swift
+)
+__2__.[程序员资源网](http://info.9iphp.com/ios-mac-resources/)
 
+__3__.[顶尖中文大学计算机专业课程体系](http://study.163.com/curricula/cs.htm)
 
-__4__.[斯坦福iOS8课程](https://github.com/X140Yu/Developing_iOS_8_Apps_With_Swift
+__4__.[动画书籍](https://zsisme.gitbooks.io/ios-/content/chapter6/caemitterlayer.html
 )
 
-#####二.iOS开发类
-__1__.[iOS开发系列--通知与消息机制](http://www.cnblogs.com/kenshincui/p/4168532.html)
+__5__.[官方Quartz2d动画文档](https://developer.apple.com/library/mac/documentation/GraphicsImaging/Conceptual/drawingwithquartz2d/dq_paths/dq_paths.html)
 
-__2__.[iOS开发系列--动画效果](iOS开发系列--让你的应用“动”起来)
+__6__.[WWDC 2015 Videos](https://developer.apple.com/videos/wwdc2015/)
 
+__7__.[iTunes Connect开发者指南(上传app等)](https://developer.apple.com/library/ios/documentation/LanguagesUtilities/Conceptual/iTunesConnect_Guide_zh_CN/Chapters/UploadingBinariesforanApp.html#//apple_ref/doc/uid/TP40016325-CH38-SW1)
 
-#####三.开发资源类
-__1__.[程序员资源网](http://info.9iphp.com/ios-mac-resources/)
+__8__.[iOS及Mac开源项目和学习资料(超级全面)](http://webres.wang/ios-mac-resources/)
 
-__2__.[顶尖中文大学计算机专业课程体系](http://study.163.com/curricula/cs.htm)
-
-
-#####四.技术博客类
+#####二.大神博客网站汇总
 
 __1__.[bawn的技术博客](http://bawn.github.io/)
 
@@ -45,9 +42,62 @@ __7__.[gfzj的技术博客](http://www.gfzj.us/)
 __8__.[casatwy的技术博客](http://casatwy.com/)
 
 __9__.[onevcat的技术博客](http://onevcat.com/2013/10/vc-transition-in-ios7/
-)
+)<br/>
 
-#####五.技术文章类
+__10__.[azeril的技术博客](http://azeril.me)<br/>
+
+__11__.[foggrg的技术博客](http://foggry.com/)
+
+__12__.[ibireme的技术博客](http://blog.ibireme.com/)
+
+__13__.[池键强的技术博客](http://macshuo.com/?paged=4)
+
+#####三.用到的网站类
+__1__.[将OC代码装换成JSPatch script](http://bang590.github.io/JSPatchConvertor/)
+
+__2__.[MAC快捷键](https://support.apple.com/zh-cn/HT201236)
+
+__3__.[鱼摆摆翻墙软件](https://ybb1024.com)
+
+#####四.技术文章类
+
+######github上博客搭建
+__1__.[①github上搭建属于自己的博客](http://msching.github.io/blog/2014/04/11/starting/)<br/>
+__2__.[②github上搭建属于自己的博客](ravenw.com/blog/2011/08/27/blog-with-jekyll/)<br/>
+__3__.[③github上搭建属于自己的博客](http://limboy.me/tech/2010/08/25/make-github-as-blog-engine.html)
+
 ######jsPath
-__1__.[jsPath系列](http://blog.cnbang.net/tech/2808/)
+__1__.[jsPath系列①](http://blog.cnbang.net/tech/2808/)
+
+__2__.[jspath系列②](http://www.jianshu.com/p/5bbee1993962)
+
+__3__.[jspath系列③](http://blog.cnbang.net/works/2767/)
+
+######推送系列
+
+__1__.[一步一步教你做ios推送](http://blog.csdn.net/showhilllee/article/details/8631734)<br/>
+
+__2__.[推送系列②](http://www.cnblogs.com/kenshincui/p/4168532.html)
+
+#####iOS加急审核系列
+__1__.[加急审核系列](http://blog.csdn.net/showhilllee/article/details/19541493)
+
+######通知和消息机制
+__1__.[iOS开发系列--通知与消息机制](http://www.cnblogs.com/kenshincui/p/4168532.html)
+
+######动画类
+__1__.[iOS开发系列--动画效果](iOS开发系列--让你的应用“动”起来)
+
+__2__.[CALayer动画](http://blog.csdn.net/maylorchao/article/details/42652161)
+
+__3__.[iOS核心动画](http://www.cnblogs.com/kenshincui/p/3972100.html)
+
+__4__.[二维码系列](http://www.appcoda.com/qr-code-ios-programming-tutorial/)
+
+######bug调试
+
+__1__.[iOS应用崩溃日志分析](http://www.cocoachina.com/ios/20130725/6677.html)
+
+
+
 
