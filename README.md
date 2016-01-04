@@ -64,8 +64,8 @@ __3__.[鱼摆摆翻墙软件](https://ybb1024.com)
 ######github上博客搭建
 __1__.[①github上搭建属于自己的博客](http://msching.github.io/blog/2014/04/11/starting/)<br/>
 __2__.[②github上搭建属于自己的博客](ravenw.com/blog/2011/08/27/blog-with-jekyll/)<br/>
-__3__.[③github上搭建属于自己的博客](http://limboy.me/tech/2010/08/25/make-github-as-blog-engine.html)
-
+__3__.[③github上搭建属于自己的博客](http://limboy.me/tech/2010/08/25/make-github-as-blog-engine.html)<br/>
+__4__.[④github上搭建数以自己的博客](http://www.cnblogs.com/purediy/archive/2013/03/07/2948892.html)
 ######jsPath
 __1__.[jsPath系列①](http://blog.cnbang.net/tech/2808/)
 
@@ -98,6 +98,10 @@ __4__.[二维码系列](http://www.appcoda.com/qr-code-ios-programming-tutorial/
 
 __1__.[iOS应用崩溃日志分析](http://www.cocoachina.com/ios/20130725/6677.html)
 
+######给自己的库添加cocoapods支持
+__1__.[博客实现①](http://www.brighttj.com/ios/ios-trunk-cocoapods.html)
+__2__.[博客实现②](http://blog.csdn.net/woaifen3344/article/details/44786417)
+__3__.[博客实现③](http://www.cnblogs.com/brycezhang/p/4117180.html)
 
 
 
