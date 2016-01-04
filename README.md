@@ -100,7 +100,9 @@ __1__.[iOS应用崩溃日志分析](http://www.cocoachina.com/ios/20130725/6677.
 
 ######给自己的库添加cocoapods支持
 __1__.[博客实现①](http://www.brighttj.com/ios/ios-trunk-cocoapods.html)
+
 __2__.[博客实现②](http://blog.csdn.net/woaifen3344/article/details/44786417)
+
 __3__.[博客实现③](http://www.cnblogs.com/brycezhang/p/4117180.html)
 
 
