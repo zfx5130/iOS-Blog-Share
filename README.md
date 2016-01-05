@@ -105,5 +105,6 @@ __2__.[博客实现②](http://blog.csdn.net/woaifen3344/article/details/4478641
 
 __3__.[博客实现③](http://www.cnblogs.com/brycezhang/p/4117180.html)
 
-
+######iOS使用动态库
+__1__.[WWDC2014之iOS使用动态库①](http://foggry.com/blog/2014/06/12/wwdc2014zhi-iosshi-yong-dong-tai-ku/)
 
