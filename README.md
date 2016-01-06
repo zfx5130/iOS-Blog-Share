@@ -7,6 +7,7 @@
 #####一.iOS学习资料类
 __1__.[斯坦福iOS8课程](https://github.com/X140Yu/Developing_iOS_8_Apps_With_Swift
 )
+
 __2__.[程序员资源网](http://info.9iphp.com/ios-mac-resources/)
 
 __3__.[顶尖中文大学计算机专业课程体系](http://study.163.com/curricula/cs.htm)
@@ -120,3 +121,11 @@ __1__.[iOS真机调试](http://www.brighttj.com/ios/ios-debugging.html)
 
 ######WKWebView
 __1__.[WKWebView的新特性与使用](http://www.saitjr.com/ios/ios-wkwebview-new-features-and-use.html)
+
+######iOS代码规范
+__1__.[iOS代码规范](https://github.com/objc-zen/objc-zen-book)
+
+__2__.[iOS代码规范](https://github.com/raywenderlich/objective-c-style-guide)
+
+#####iOS支付
+__1__.[支付宝、银联、微信](http://www.jianshu.com/p/97d38b00e53d)
