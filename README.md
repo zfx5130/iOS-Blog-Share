@@ -110,6 +110,8 @@ __2__.[博客实现](http://blog.csdn.net/woaifen3344/article/details/44786417)
 
 __3__.[博客实现](http://www.cnblogs.com/brycezhang/p/4117180.html)
 
+__4__.[博客实现](使用Cocoapods创建私有podspec)
+
 ######iOS使用动态库
 __1__.[WWDC2014之iOS使用动态库](http://foggry.com/blog/2014/06/12/wwdc2014zhi-iosshi-yong-dong-tai-ku/)
 
