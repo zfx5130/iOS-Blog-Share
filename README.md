@@ -112,6 +112,8 @@ __3__.[博客实现](http://www.cnblogs.com/brycezhang/p/4117180.html)
 
 __4__.[博客实现](使用Cocoapods创建私有podspec)
 
+__5__.[博客实现](http://blog.devtang.com/blog/2014/05/25/use-cocoapod-to-manage-ios-lib-dependency/?utm_source=tuicool&utm_medium=referral)
+
 ######iOS使用动态库
 __1__.[WWDC2014之iOS使用动态库](http://foggry.com/blog/2014/06/12/wwdc2014zhi-iosshi-yong-dong-tai-ku/)
 
