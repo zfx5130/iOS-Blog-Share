@@ -110,9 +110,11 @@ __2__.[博客实现](http://blog.csdn.net/woaifen3344/article/details/44786417)
 
 __3__.[博客实现](http://www.cnblogs.com/brycezhang/p/4117180.html)
 
-__4__.[博客实现](使用Cocoapods创建私有podspec)
+__4__.[使用Cocoapods创建私有podspec](http://www.cocoachina.com/ios/20150228/11206.html)
 
 __5__.[博客实现](http://blog.devtang.com/blog/2014/05/25/use-cocoapod-to-manage-ios-lib-dependency/?utm_source=tuicool&utm_medium=referral)
+
+__6__.[如何编写一个CocoaPods的spec文件](http://ishalou.com/blog/2012/10/16/how-to-create-a-cocoapods-spec-file/)
 
 ######iOS使用动态库
 __1__.[WWDC2014之iOS使用动态库](http://foggry.com/blog/2014/06/12/wwdc2014zhi-iosshi-yong-dong-tai-ku/)
