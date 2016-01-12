@@ -122,6 +122,9 @@ __1__.[WWDC2014之iOS使用动态库](http://foggry.com/blog/2014/06/12/wwdc2014
 ######iOS应用上架
 __1__.[iOS应用上架](http://www.saitjr.com/ios/ios-publish-app.html)
 
+#####蓝牙系列
+__1__.[iOS蓝牙系列](http://www.jianshu.com/p/84b5b834b942?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=qq)
+
 ######iOS真机调试
 __1__.[iOS真机调试](http://www.brighttj.com/ios/ios-debugging.html)
 
