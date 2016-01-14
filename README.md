@@ -138,3 +138,9 @@ __2__.[iOS代码规范](https://github.com/raywenderlich/objective-c-style-guide
 
 #####iOS支付
 __1__.[支付宝、银联、微信](http://www.jianshu.com/p/97d38b00e53d)
+
+#####GCD使用
+__1__.[细说GCD（Grand Central Dispatch）如何用](http://www.jianshu.com/p/fbe6a654604c)
+
+#####事件响应链 
+__1__[事件传递响应链](http://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=402300621&idx=2&sn=e0d201d397756d6f7f6620e82dc4247a&scene=23&srcid=0114Tm4O9lAJm0seONFc2hMT#rd)
