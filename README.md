@@ -144,3 +144,11 @@ __1__.[细说GCD（Grand Central Dispatch）如何用](http://www.jianshu.com/p/
 
 #####事件响应链 
 __1__[事件传递响应链](http://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=402300621&idx=2&sn=e0d201d397756d6f7f6620e82dc4247a&scene=23&srcid=0114Tm4O9lAJm0seONFc2hMT#rd)
+
+#####自定义转场动画
+__1__.[iOS自定义转场详解](http://kittenyang.com/magicmove/)
+
+__2.__.[iOS自定义转场详解](http://kittenyang.com/3dfliptransition/)
+
+__3__.[iOS自定义转场详解](http://kittenyang.com/pingtransition/)
+
