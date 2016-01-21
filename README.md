@@ -152,3 +152,10 @@ __2.__.[iOS自定义转场详解](http://kittenyang.com/3dfliptransition/)
 
 __3__.[iOS自定义转场详解](http://kittenyang.com/pingtransition/)
 
+#####RunTime系列
+
+__1__.[Runtime应用之关联对象和MethodSwizzling](http://www.jianshu.com/p/2701e8b2ae76#)
+
+__2__.[Runtime应用之KVC](http://www.jianshu.com/p/8253c20d51c9)
+
+__3__.[Runtime基础元素解析](http://www.jianshu.com/p/a55fe91c826c)
