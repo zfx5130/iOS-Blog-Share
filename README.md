@@ -23,6 +23,11 @@ __7__.[iTunes Connect开发者指南(上传app等)](https://developer.apple.com/
 
 __8__.[iOS及Mac开源项目和学习资料(超级全面)](http://webres.wang/ios-mac-resources/)
 
+__9__.[InfoQ](http://www.infoq.com/cn)
+
+__10__.[OC代码转JS工具](http://bang590.github.io/JSPatchConvertor/)
+
+
 #####二.大神博客网站汇总
 
 __1__.[bawn的技术博客](http://bawn.github.io/)
