@@ -26,7 +26,7 @@ __8__.[iOS及Mac开源项目和学习资料(超级全面)](http://webres.wang/io
 __9__.[InfoQ](http://www.infoq.com/cn)
 
 __10__.[OC代码转JS工具](http://bang590.github.io/JSPatchConvertor/)
-
+__11__.[整理iOS第三方资源] (http://www.cocoachina.com/ios/20160121/14988.html)
 
 #####二.大神博客网站汇总
 
@@ -58,6 +58,18 @@ __12__.[ibireme的技术博客](http://blog.ibireme.com/)
 
 __13__.[池键强的技术博客](http://macshuo.com/?paged=4)
 
+__14__.[ios梦工厂](http://al1020119.github.io/blog/archives/)
+
+__15__.[标哥的github](https://github.com/CoderJackyHuang?tab=repositories)
+
+__16__.[董铂然的技术博客](http://www.cnblogs.com/dsxniubility/)
+
+__17__.[维尼的小熊的简书] (http://www.jianshu.com/users/5fe7513c7a57/latest_articles)
+
+__18__.[LoveApp的技术博客](http://blog.csdn.net/xdrt81y)
+
+__19__.[Kenshin Cui's Blog 的技术博客](http://www.cnblogs.com/kenshincui/)
+
 #####三.用到的网站类
 __1__.[将OC代码装换成JSPatch script](http://bang590.github.io/JSPatchConvertor/)
 
@@ -78,6 +90,9 @@ __1__.[jsPath系列](http://blog.cnbang.net/tech/2808/)
 __2__.[jspath系列](http://www.jianshu.com/p/5bbee1993962)
 
 __3__.[jspath系列](http://blog.cnbang.net/works/2767/)
+
+__4__.[JSPatch 实时修复线上bug](http://www.jianshu.com/p/5bbee1993962)
+
 
 ######推送系列
 
@@ -103,6 +118,8 @@ __2__.[CALayer动画](http://blog.csdn.net/maylorchao/article/details/42652161)
 __3__.[iOS核心动画](http://www.cnblogs.com/kenshincui/p/3972100.html)
 
 __4__.[二维码系列](http://www.appcoda.com/qr-code-ios-programming-tutorial/)
+
+__5__.[使用 iOS 8 Spring Animation API 创建动画](http://www.renfei.org/blog/ios-8-spring-animation.html)
 
 ######bug调试
 
@@ -144,6 +161,8 @@ __2__.[iOS代码规范](https://github.com/raywenderlich/objective-c-style-guide
 #####iOS支付
 __1__.[支付宝、银联、微信](http://www.jianshu.com/p/97d38b00e53d)
 
+__2__.[Bison教你3分钟集成支付宝好友分享](http://www.jianshu.com/p/05a3087cd796)
+
 #####GCD使用
 __1__.[细说GCD（Grand Central Dispatch）如何用](http://www.jianshu.com/p/fbe6a654604c)
 
@@ -164,3 +183,28 @@ __1__.[Runtime应用之关联对象和MethodSwizzling](http://www.jianshu.com/p/
 __2__.[Runtime应用之KVC](http://www.jianshu.com/p/8253c20d51c9)
 
 __3__.[Runtime基础元素解析](http://www.jianshu.com/p/a55fe91c826c)
+
+#####iOS开发的一些奇巧淫技 
+
+__1__. [](http://www.cocoachina.com/ios/20141229/10783.html)
+
+__2__.[隐藏TabBar是个累人的活](http://www.jianshu.com/p/607b2a12d24d)
+
+__3__.[iOS隐藏导航条1px的底部横线【原创】](http://blog.it985.com/9808.html)
+
+#### 好使用的iOS开发工具
+
+__1__. [](http://blog.devtang.com/blog/2014/06/29/ios-dev-tools/)
+
+
+###GitHub上值得关注的iOS开源项目
+
+__1__.[](http://www.jianshu.com/p/3625796aaf98)
+
+__2__.[](https://github.com/KittenYang/KYGooeyMenu)：KYGooeyMenu 是一个具有 Gooey Effects 带粘性的扇形菜单控件。
+
+__3__.[](https://github.com/Draveness/DKNightVersion) DKNightVersion 是一个支持夜间模式切换的框架。
+
+__4__.[](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell) UITableView-FDTemplateLayoutCell：UITableView-FDTemplateLayoutCell 是一个方便缓存 UITableViewCell 的高度的框架。
+
+__5__.[](https://github.com/shaojiankui/IOS-Categories) IOS-Categories：IOS-Categories 是一个收集各种有用的 Objective-C 语言的 Category 的项目。
