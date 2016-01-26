@@ -26,6 +26,7 @@ __8__.[iOS及Mac开源项目和学习资料(超级全面)](http://webres.wang/io
 __9__.[InfoQ](http://www.infoq.com/cn)
 
 __10__.[OC代码转JS工具](http://bang590.github.io/JSPatchConvertor/)
+
 __11__.[整理iOS第三方资源] (http://www.cocoachina.com/ios/20160121/14988.html)
 
 #####二.大神博客网站汇总
@@ -167,7 +168,7 @@ __2__.[Bison教你3分钟集成支付宝好友分享](http://www.jianshu.com/p/0
 __1__.[细说GCD（Grand Central Dispatch）如何用](http://www.jianshu.com/p/fbe6a654604c)
 
 #####事件响应链 
-__1__[事件传递响应链](http://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=402300621&idx=2&sn=e0d201d397756d6f7f6620e82dc4247a&scene=23&srcid=0114Tm4O9lAJm0seONFc2hMT#rd)
+__1__.[事件传递响应链](http://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=402300621&idx=2&sn=e0d201d397756d6f7f6620e82dc4247a&scene=23&srcid=0114Tm4O9lAJm0seONFc2hMT#rd)
 
 #####自定义转场动画
 __1__.[iOS自定义转场详解](http://kittenyang.com/magicmove/)
@@ -186,7 +187,7 @@ __3__.[Runtime基础元素解析](http://www.jianshu.com/p/a55fe91c826c)
 
 #####iOS开发的一些奇巧淫技 
 
-__1__. [](http://www.cocoachina.com/ios/20141229/10783.html)
+__1__.[好编程的技巧](http://www.cocoachina.com/ios/20141229/10783.html)
 
 __2__.[隐藏TabBar是个累人的活](http://www.jianshu.com/p/607b2a12d24d)
 
@@ -194,17 +195,17 @@ __3__.[iOS隐藏导航条1px的底部横线【原创】](http://blog.it985.com/9
 
 #### 好使用的iOS开发工具
 
-__1__. [](http://blog.devtang.com/blog/2014/06/29/ios-dev-tools/)
+__1__.[开发工具](http://blog.devtang.com/blog/2014/06/29/ios-dev-tools/)
 
 
 ###GitHub上值得关注的iOS开源项目
 
-__1__.[](http://www.jianshu.com/p/3625796aaf98)
+__1__.[开源项目](http://www.jianshu.com/p/3625796aaf98)
 
-__2__.[](https://github.com/KittenYang/KYGooeyMenu)：KYGooeyMenu 是一个具有 Gooey Effects 带粘性的扇形菜单控件。
+__2__.[KYGooeyMenu](https://github.com/KittenYang/KYGooeyMenu)：KYGooeyMenu 是一个具有 Gooey Effects 带粘性的扇形菜单控件。
 
-__3__.[](https://github.com/Draveness/DKNightVersion) DKNightVersion 是一个支持夜间模式切换的框架。
+__3__.[DKNightVersion](https://github.com/Draveness/DKNightVersion) DKNightVersion 是一个支持夜间模式切换的框架。
 
-__4__.[](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell) UITableView-FDTemplateLayoutCell：UITableView-FDTemplateLayoutCell 是一个方便缓存 UITableViewCell 的高度的框架。
+__4__.[UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell) UITableView-FDTemplateLayoutCell：UITableView-FDTemplateLayoutCell 是一个方便缓存 UITableViewCell 的高度的框架。
 
-__5__.[](https://github.com/shaojiankui/IOS-Categories) IOS-Categories：IOS-Categories 是一个收集各种有用的 Objective-C 语言的 Category 的项目。
+__5__.[Categories](https://github.com/shaojiankui/IOS-Categories) IOS-Categories：IOS-Categories 是一个收集各种有用的 Objective-C 语言的 Category 的项目。
