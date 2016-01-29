@@ -209,3 +209,12 @@ __3__.[DKNightVersion](https://github.com/Draveness/DKNightVersion) DKNightVersi
 __4__.[UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell) UITableView-FDTemplateLayoutCell：UITableView-FDTemplateLayoutCell 是一个方便缓存 UITableViewCell 的高度的框架。
 
 __5__.[Categories](https://github.com/shaojiankui/IOS-Categories) IOS-Categories：IOS-Categories 是一个收集各种有用的 Objective-C 语言的 Category 的项目。
+
+####关于使用第三方app的使用到的知识点
+
+__1__.[iOS系统下检查第三方APP是否安装及跳转启动](http://www.jianshu.com/p/28f517775214)
+
+###进度条系列
+
+__1__.[iOS 使用NJKWebViewProgress做webview进度条](http://www.jianshu.com/p/318e774d82fe)
+
