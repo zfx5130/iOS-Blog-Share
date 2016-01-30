@@ -27,7 +27,9 @@ __9__.[InfoQ](http://www.infoq.com/cn)
 
 __10__.[OC代码转JS工具](http://bang590.github.io/JSPatchConvertor/)
 
-__11__.[整理iOS第三方资源] (http://www.cocoachina.com/ios/20160121/14988.html)
+__11__.[iOS开源App整理](http://duxinfeng.com/2015/07/14/iOS%E5%BC%80%E6%BA%90App%E6%95%B4%E7%90%86/)
+
+__12__.[整理iOS第三方资源](http://www.cocoachina.com/ios/20160121/14988.html)
 
 #####二.大神博客网站汇总
 
@@ -65,7 +67,7 @@ __15__.[标哥的github](https://github.com/CoderJackyHuang?tab=repositories)
 
 __16__.[董铂然的技术博客](http://www.cnblogs.com/dsxniubility/)
 
-__17__.[维尼的小熊的简书] (http://www.jianshu.com/users/5fe7513c7a57/latest_articles)
+__17__.[维尼的小熊的简书](http://www.jianshu.com/users/5fe7513c7a57/latest_articles)
 
 __18__.[LoveApp的技术博客](http://blog.csdn.net/xdrt81y)
 
