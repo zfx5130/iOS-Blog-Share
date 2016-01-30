@@ -27,7 +27,7 @@ __9__.[InfoQ](http://www.infoq.com/cn)
 
 __10__.[OC代码转JS工具](http://bang590.github.io/JSPatchConvertor/)
 
-
+__11__.[iOS开源App整理](http://duxinfeng.com/2015/07/14/iOS%E5%BC%80%E6%BA%90App%E6%95%B4%E7%90%86/)
 #####二.大神博客网站汇总
 
 __1__.[bawn的技术博客](http://bawn.github.io/)
