@@ -187,6 +187,10 @@ __2__.[Runtime应用之KVC](http://www.jianshu.com/p/8253c20d51c9)
 
 __3__.[Runtime基础元素解析](http://www.jianshu.com/p/a55fe91c826c)
 
+#####target系列
+
+__1__.[ios开发时，在Xcode中添加多个targets进行版本控制](http://blog.csdn.net/ysysbaobei/article/details/10951991)
+
 #####iOS开发的一些奇巧淫技 
 
 __1__.[好编程的技巧](http://www.cocoachina.com/ios/20141229/10783.html)
