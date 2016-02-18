@@ -31,6 +31,8 @@ __11__.[iOS开源App整理](http://duxinfeng.com/2015/07/14/iOS%E5%BC%80%E6%BA%9
 
 __12__.[整理iOS第三方资源](http://www.cocoachina.com/ios/20160121/14988.html)
 
+__13__.[慕课网学习视频](http://www.imooc.com/course/list?c=ios&page=1)
+
 #####二.大神博客网站汇总
 
 __1__.[bawn的技术博客](http://bawn.github.io/)
@@ -187,6 +189,9 @@ __2__.[Runtime应用之KVC](http://www.jianshu.com/p/8253c20d51c9)
 
 __3__.[Runtime基础元素解析](http://www.jianshu.com/p/a55fe91c826c)
 
+__4__.[Objective-C Runtime 运行时之四：Method Swizzling
+](http://blog.jobbole.com/79580/)
+
 #####target系列
 
 __1__.[ios开发时，在Xcode中添加多个targets进行版本控制](http://blog.csdn.net/ysysbaobei/article/details/10951991)
@@ -230,4 +235,5 @@ __1__.[Content Hugging Priority 和 Content Compression Resistance Priority](htt
 ###相册系列AssetsLibrary
 
 __1__.[使用AssetsLibrary做自定义相册选择器](http://mikora.github.io/2016/01/08/使用AssetsLibrary做自定义相册选择器)
+
 
