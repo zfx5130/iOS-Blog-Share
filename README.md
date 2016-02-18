@@ -224,3 +224,10 @@ __1__.[iOS系统下检查第三方APP是否安装及跳转启动](http://www.jia
 
 __1__.[iOS 使用NJKWebViewProgress做webview进度条](http://www.jianshu.com/p/318e774d82fe)
 
+###约束系列
+__1__.[Content Hugging Priority 和 Content Compression Resistance Priority](http://jerrytian.com/2016/01/27/content-hugging-priority-he-content-compression-resistance-priority/)
+
+###相册系列AssetsLibrary
+
+__1__.[使用AssetsLibrary做自定义相册选择器](http://mikora.github.io/2016/01/08/使用AssetsLibrary做自定义相册选择器)
+
