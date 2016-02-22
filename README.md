@@ -33,6 +33,8 @@ __12__.[整理iOS第三方资源](http://www.cocoachina.com/ios/20160121/14988.h
 
 __13__.[慕课网学习视频](http://www.imooc.com/course/list?c=ios&page=1)
 
+__14__.[给iOS开发者的Sketch入门教程](http://www.jianshu.com/p/45eef5465185)
+
 #####二.大神博客网站汇总
 
 __1__.[bawn的技术博客](http://bawn.github.io/)
