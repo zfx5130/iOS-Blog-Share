@@ -242,4 +242,10 @@ __1__.[Content Hugging Priority 和 Content Compression Resistance Priority](htt
 
 __1__.[使用AssetsLibrary做自定义相册选择器](http://mikora.github.io/2016/01/08/使用AssetsLibrary做自定义相册选择器)
 
+###Socket
+
+__1__.[深入浅出－iOS的TCP/IP协议族剖析&&Socket](http://www.jianshu.com/p/cc756016243b)
+
+__2__.[深入浅出－网络七层模型&&网络数据包](http://www.jianshu.com/p/4b9d43c0571a)
+
 
