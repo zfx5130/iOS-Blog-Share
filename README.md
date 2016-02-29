@@ -248,4 +248,12 @@ __1__.[深入浅出－iOS的TCP/IP协议族剖析&&Socket](http://www.jianshu.co
 
 __2__.[深入浅出－网络七层模型&&网络数据包](http://www.jianshu.com/p/4b9d43c0571a)
 
+###xcode打包
 
+__1__.[iOS打包成ipa包](http://www.jianshu.com/p/9df7d8930a3e)
+
+__2__.[xocde程序打包.ipa](http://www.jianshu.com/p/2c62cd3e9cc1)
+
+__3__.[xcode打包ipa基本步骤](http://www.jianshu.com/p/a19d2d0747ee)
+
+__4__.[iOS打包](http://www.jianshu.com/p/d12887a243a9)
