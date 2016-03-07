@@ -257,3 +257,6 @@ __2__.[xocde程序打包.ipa](http://www.jianshu.com/p/2c62cd3e9cc1)
 __3__.[xcode打包ipa基本步骤](http://www.jianshu.com/p/a19d2d0747ee)
 
 __4__.[iOS打包](http://www.jianshu.com/p/d12887a243a9)
+
+####iOS框架
+__1__.[一步步创建自己的 iOS 框架](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=401935711&idx=1&sn=9f9bed89680e6e6df26135edcdbb99e9&scene=23&srcid=0306zZVXcp6CtX82crkdaVg4#rd)
