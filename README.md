@@ -39,6 +39,8 @@ __15__.[sketch中文网](http://www.sketchcn.com/)
 
 __16__.[好用的工作软件](https://trello.com)
 
+__17__.[移动开发必读书单](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=402828201&idx=1&sn=664aa878d1641b9b2d8f8d7076efa200&scene=23&srcid=0314QsV4XZqLXUfroRDfJnAw#rd)
+
 #####二.大神博客网站汇总
 
 __1__.[bawn的技术博客](http://bawn.github.io/)
@@ -262,3 +264,8 @@ __4__.[iOS打包](http://www.jianshu.com/p/d12887a243a9)
 
 ####iOS框架
 __1__.[一步步创建自己的 iOS 框架](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=401935711&idx=1&sn=9f9bed89680e6e6df26135edcdbb99e9&scene=23&srcid=0306zZVXcp6CtX82crkdaVg4#rd)
+
+####基站查询网址
+__1__.[基站查询](http://www.cellid.cn/)
+
+__2__.[基站查询](http://www.haoservice.com/docs/1)
