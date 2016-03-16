@@ -60,8 +60,6 @@ __7__.[gfzj的技术博客](http://www.gfzj.us/)
 
 __8__.[casatwy的技术博客](http://casatwy.com/)
 
-__9__.[onevcat的技术博客](http://onevcat.com/2013/10/vc-transition-in-ios7/
-)<br/>
 
 __10__.[azeril的技术博客](http://azeril.me)<br/>
 
@@ -82,6 +80,72 @@ __17__.[维尼的小熊的简书](http://www.jianshu.com/users/5fe7513c7a57/late
 __18__.[LoveApp的技术博客](http://blog.csdn.net/xdrt81y)
 
 __19__.[Kenshin Cui's Blog 的技术博客](http://www.cnblogs.com/kenshincui/)
+
+__20__.<a href="http://objcio.cn/" target="blank">objc中国</a>
+
+__21__.<a href="http://blog.devtang.com/blog/archives/" target="blank">唐巧的技术博客</a>
+
+__22__.<a href="http://www.onevcat.com/" target="blank">onevcat(喵神)的博客</a>
+
+__24__.<a href="http://blog.csdn.net/yiyaaixuexi?viewmode=contents" target="blank">念茜的CSDN博客(iOS安全知识)</a>
+
+__25__.<a href="http://nianxi.net/" target="blank">念茜的新博客</a>
+
+__26__.<a href="http://limboy.me/" target="blank">花瓣网李忠的博客(ReactiveCocoa知识)</a>
+
+__27__.<a href="http://beyondvincent.com/" target="blank">破船之家(许多优秀翻译)</a>
+
+__28__.<a href="http://nshipster.cn/" target="blank">NSHipster中文版(Mattt大神)</a>
+
+__29__.<a href="http://www.jianshu.com/users/b82d2721ba07/latest_articles" target="blank">叶孤城___的简书(动画迷)</a>
+
+__30__.<a href="http://blog.callmewhy.com/" target="blank">请叫我汪二的博客</a>
+
+__31__.<a href="http://zhowkev.in/" target="blank">Kevin Blog</a>
+
+__32__.<a href="http://tech.glowing.com/cn/" target="blank">Glow 技术团队博客</a>
+
+__33__.<a href="http://www.infoq.com/cn/" target="blank">InfoQ</a>
+
+__34__.<a href="http://blog.xcodev.com/blog/archives/" target="blank">亮了的原创开发技术博客</a>
+
+__35__.<a href="http://hufeng825.github.io/" target="blank">阿峰的技术窝窝</a>
+
+__36__.<a href="http://www.iwangke.me/" target="blank">王轲的技术博客(唱吧、IndieBros Studio创始人)</a>
+
+__37__.<a href="http://geeklu.com/" target="blank">Luke's Homepage</a>
+
+__38__.<a href="http://studentdeng.github.io/" target="blank">不会开机的男孩</a>
+
+__39__.<a href="http://blog.sunnyxx.com/archives/" target="blank">sunnyxx BLOG</a>
+
+__40__.<a href="http://southpeak.github.io/blog/archives/" target="blank">南峰子的技术博客</a>
+
+__41__.<a href="http://casatwy.com/archives.html" target="blank">casatwy技术博客(iOS应用架构)</a>
+
+__42__.<a href="http://iiiyu.com/archives/" target="blank">萧宸宇 技术博客(Oh My Star)</a>
+
+__43__.<a href="http://itony.me/archives" target="blank">Tony's blog</a>
+
+__44__.<a href="http://c4fun.cn/categories/Algorithm/" target="blank">LeetCode题解整理版<</a>
+
+__46__.<a href="http://blog.csdn.net/leixiaohua1020" target="blank">雷霄骅(leixiaohua1020)的专栏(一个广院工科生的视音频技术笔记)</a>
+
+__47__.<a href="http://msching.github.io/blog/archives/" target="blank">ChengYin's coding life(iOS音频)</a>
+
+__48__.<a href="http://www.ioscreator.com/" target="blank">ioscreator</a>，<a href="https://github.com/ioscreator" target="blank">对应github地址</a>
+
+__49__.<a href="http://www.jianshu.com/users/256fb15baf75/latest_articles" target="blank">Sam_Lau的简书</a>
+
+__50__.<a href="http://blog.justbilt.com/" target="blank">justbilt（A game developer</a>
+
+__51__.<a href="http://codingobjc.com/blog/archives/" target="blank">{while...}coding with objc & swift</a>
+
+__52__.<a href="http://adad184.com/" target="blank">里脊串的开发随笔</a>
+
+__53__.<a href="https://github.com/tangqiaoboy/iOSBlogCN" target="blank">唐巧总结的一些iOS优秀开发者的博客</a>
+
+
 
 #####三.用到的网站类
 __1__.[将OC代码装换成JSPatch script](http://bang590.github.io/JSPatchConvertor/)
