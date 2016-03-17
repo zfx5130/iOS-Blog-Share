@@ -145,7 +145,7 @@ __52__.<a href="http://adad184.com/" target="blank">里脊串的开发随笔</a>
 
 __53__.<a href="https://github.com/tangqiaoboy/iOSBlogCN" target="blank">唐巧总结的一些iOS优秀开发者的博客</a>
 
-
+__54__.[一些博客和有用的网站](http://www.gfzj.us/links/)
 
 #####三.用到的网站类
 __1__.[将OC代码装换成JSPatch script](http://bang590.github.io/JSPatchConvertor/)
@@ -333,3 +333,6 @@ __1__.[一步步创建自己的 iOS 框架](http://mp.weixin.qq.com/s?__biz=MzAx
 __1__.[基站查询](http://www.cellid.cn/)
 
 __2__.[基站查询](http://www.haoservice.com/docs/1)
+
+####iOS-github备忘
+__1__.[Github-iOS备忘](http://github.ibireme.com/github/list/ios)
