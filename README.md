@@ -338,3 +338,6 @@ __2__.[基站查询](http://www.haoservice.com/docs/1)
 
 ####iOS-github备忘
 __1__.[Github-iOS备忘](http://github.ibireme.com/github/list/ios)
+
+####IB_DESIGNABLE和IBInspectable
+__1__.[http://www.jianshu.com/p/0a2fadab7d17](http://www.jianshu.com/p/0a2fadab7d17)
