@@ -149,6 +149,8 @@ __54__.[一些博客和有用的网站](http://www.gfzj.us/links/)
 
 __55__.[Glow技术团队博客](http://tech.glowing.com/cn/)
 
+__56__.[庞海礁的个人空间](http://www.olinone.com/?paged=2)
+
 #####三.用到的网站类
 __1__.[将OC代码装换成JSPatch script](http://bang590.github.io/JSPatchConvertor/)
 
@@ -341,3 +343,9 @@ __1__.[Github-iOS备忘](http://github.ibireme.com/github/list/ios)
 
 ####IB_DESIGNABLE和IBInspectable
 __1__.[http://www.jianshu.com/p/0a2fadab7d17](http://www.jianshu.com/p/0a2fadab7d17)
+
+#####如何检测当前运行商类型(移动、联通、电信)
+__1__.[iOS开发中如何检测当前运行商类型(移动、联通、电信)](http://www.olinone.com/?p=149)
+
+#####一步一步实现iOS微信自动抢红包(非越狱)
+__1__.[一步一步实现iOS微信自动抢红包(非越狱)](http://www.jianshu.com/p/189afbe3b429)
