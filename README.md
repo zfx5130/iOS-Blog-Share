@@ -346,3 +346,6 @@ __1__.[http://www.jianshu.com/p/0a2fadab7d17](http://www.jianshu.com/p/0a2fadab7
 
 #####如何检测当前运行商类型(移动、联通、电信)
 __1__.[iOS开发中如何检测当前运行商类型(移动、联通、电信)](http://www.olinone.com/?p=149)
+
+#####一步一步实现iOS微信自动抢红包(非越狱)
+__1__.[一步一步实现iOS微信自动抢红包(非越狱)](http://www.jianshu.com/p/189afbe3b429)
