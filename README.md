@@ -357,3 +357,9 @@ __1__.[一步一步实现iOS微信自动抢红包(非越狱)](http://www.jianshu
 #####国际化
 
 __1__.[iOS之应用程序国际化](http://www.jianshu.com/p/63a1c1a40b93)
+
+__2__.[IOS程序国际化](http://www.cnblogs.com/zhidao-chen/archive/2012/07/08/2581977.html)
+
+#####OC与Swift混编
+
+__1__.[OC与Swift混编](http://blog.sina.com.cn/s/blog_8d1bc23f0102v5tl.html)
