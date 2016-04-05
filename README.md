@@ -93,8 +93,6 @@ __22__.<a href="http://www.onevcat.com/" target="blank">onevcat(喵神)的博客
 
 __24__.<a href="http://blog.csdn.net/yiyaaixuexi?viewmode=contents" target="blank">念茜的CSDN博客(iOS安全知识)</a>
 
-__25__.<a href="http://nianxi.net/" target="blank">念茜的新博客</a>
-
 __26__.<a href="http://limboy.me/" target="blank">花瓣网李忠的博客(ReactiveCocoa知识)</a>
 
 __27__.<a href="http://beyondvincent.com/" target="blank">破船之家(许多优秀翻译)</a>
