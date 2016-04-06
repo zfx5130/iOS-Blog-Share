@@ -153,6 +153,8 @@ __55__.[Glow技术团队博客](http://tech.glowing.com/cn/)
 
 __56__.[庞海礁的个人空间](http://www.olinone.com/?paged=2)
 
+__57__.[优秀开源代码解读:RestKit的使用教程](http://www.cocoachina.com/industry/20140102/7641.html)
+
 #####三.用到的网站类
 __1__.[将OC代码装换成JSPatch script](http://bang590.github.io/JSPatchConvertor/)
 
