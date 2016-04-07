@@ -45,6 +45,8 @@ __18__.[中国首届swift开发者大会](http://www.imooc.com/learn/600#rd)
 
 __19__.[swift开发视频教程](http://www.bilibili.com/mobile/video/av4212609.html)
 
+__20__.[swift视频老头子](http://www.swiftv.cn/secure/my/course/learning)
+
 #####二.大神博客网站汇总
 
 __1__.[bawn的技术博客](http://bawn.github.io/)
