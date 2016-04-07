@@ -47,6 +47,8 @@ __19__.[swift开发视频教程](http://www.bilibili.com/mobile/video/av4212609.
 
 __20__.[swift视频老头子](http://www.swiftv.cn/secure/my/course/learning)
 
+__21__.[Python 2.7教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)
+
 #####二.大神博客网站汇总
 
 __1__.[bawn的技术博客](http://bawn.github.io/)
