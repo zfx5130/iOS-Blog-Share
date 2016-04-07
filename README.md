@@ -164,6 +164,10 @@ __3__.[鱼摆摆翻墙软件](https://ybb1024.com)
 
 #####四.技术文章类
 
+#####iOS开发书单
+__1__. [iOS开发书单](http://www.jianshu.com/p/2fa080673842)
+__2__. [大神常常浏览的博客和网站](http://www.jianshu.com/p/e5353a1a752c)
+
 ######github上博客搭建
 __1__.[github上搭建属于自己的博客](http://msching.github.io/blog/2014/04/11/starting/)<br/>
 __2__.[github上搭建属于自己的博客](ravenw.com/blog/2011/08/27/blog-with-jekyll/)<br/>
