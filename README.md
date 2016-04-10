@@ -282,9 +282,13 @@ __3__.[Runtime基础元素解析](http://www.jianshu.com/p/a55fe91c826c)
 __4__.[Objective-C Runtime 运行时之四：Method Swizzling
 ](http://blog.jobbole.com/79580/)
 
+__5__.[Runtime学习](http://www.cocoachina.com/ios/20160406/15733.html)
+
 #####target系列
 
 __1__.[ios开发时，在Xcode中添加多个targets进行版本控制](http://blog.csdn.net/ysysbaobei/article/details/10951991)
+
+__2__.[如何使用Xcode的Targets来管理开发和生产版本的构建](http://www.cocoachina.com/ios/20160331/15832.html)
 
 #####iOS开发的一些奇巧淫技 
 
@@ -371,3 +375,10 @@ __2__.[IOS程序国际化](http://www.cnblogs.com/zhidao-chen/archive/2012/07/08
 #####OC与Swift混编
 
 __1__.[OC与Swift混编](http://blog.sina.com.cn/s/blog_8d1bc23f0102v5tl.html)
+
+######添加矢量图
+
+__1__.[如何在iOS上创建矢量图形](http://www.cocoachina.com/ios/20160330/15826.html)
+
+##### ReplayKit框架
+__1__.[iOS 9学习系列:ReplayKit框架入门](www.cocoachina.com/ios/20160318/15716.html)
