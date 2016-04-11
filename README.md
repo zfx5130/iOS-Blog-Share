@@ -49,6 +49,11 @@ __20__.[swift视频老头子](http://www.swiftv.cn/secure/my/course/learning)
 
 __21__.[Python 2.7教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)
 
+__22__.[Objc.io中国](http://objccn.io/issue-9-3/)
+
+__23__.[Objc.io英文](https://www.objc.io/issues/9-strings/string-localization/)
+
+
 #####二.大神博客网站汇总
 
 __1__.[bawn的技术博客](http://bawn.github.io/)
