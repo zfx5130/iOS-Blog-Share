@@ -53,6 +53,7 @@ __22__.[Objc.io中国](http://objccn.io/issue-9-3/)
 
 __23__.[Objc.io英文](https://www.objc.io/issues/9-strings/string-localization/)
 
+__24__.[iOS开源项目汇总](http://www.cocoachina.com/bbs/read.php?tid-47282.html)
 
 #####二.大神博客网站汇总
 
@@ -276,6 +277,7 @@ __3__.[iOS自定义转场详解](http://kittenyang.com/pingtransition/)
 
 __4__.[iOS自定义转场](http://www.jianshu.com/p/45434f73019e)
 
+__5__.[一键自定义转场动画](http://www.cocoachina.com/ios/20160407/15881.html)
 #####RunTime系列
 
 __1__.[Runtime应用之关联对象和MethodSwizzling](http://www.jianshu.com/p/2701e8b2ae76#)
@@ -330,6 +332,7 @@ __1__.[iOS 使用NJKWebViewProgress做webview进度条](http://www.jianshu.com/p
 
 ###约束系列
 __1__.[Content Hugging Priority 和 Content Compression Resistance Priority](http://jerrytian.com/2016/01/27/content-hugging-priority-he-content-compression-resistance-priority/)
+__2__.[Autolayout约束动画化](http://www.cocoachina.com/ios/20160331/15841.html)
 
 ###相册系列AssetsLibrary
 
