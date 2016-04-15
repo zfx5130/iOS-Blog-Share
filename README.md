@@ -305,6 +305,9 @@ __2__.[隐藏TabBar是个累人的活](http://www.jianshu.com/p/607b2a12d24d)
 
 __3__.[iOS隐藏导航条1px的底部横线【原创】](http://blog.it985.com/9808.html)
 
+__4__.[iOS面试题](http://www.cocoachina.com/ios/20160414/15918.html)
+
+
 #### 好使用的iOS开发工具
 
 __1__.[开发工具](http://blog.devtang.com/blog/2014/06/29/ios-dev-tools/)
