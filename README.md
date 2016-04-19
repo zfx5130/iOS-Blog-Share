@@ -55,6 +55,8 @@ __23__.[Objc.io英文](https://www.objc.io/issues/9-strings/string-localization/
 
 __24__.[iOS开源项目汇总](http://www.cocoachina.com/bbs/read.php?tid-47282.html)
 
+__25__.[iOS面试题](http://www.jianshu.com/p/2e7ae4457083?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=weibo)
+
 #####二.大神博客网站汇总
 
 __1__.[bawn的技术博客](http://bawn.github.io/)
@@ -172,18 +174,19 @@ __2__.[MAC快捷键](https://support.apple.com/zh-cn/HT201236)
 
 __3__.[鱼摆摆翻墙软件](https://ybb1024.com)
 
-#####四.技术文章类
+####四.技术文章类
 
-#####iOS开发书单
+####iOS开发书单
 __1__. [iOS开发书单](http://www.jianshu.com/p/2fa080673842)
 __2__. [大神常常浏览的博客和网站](http://www.jianshu.com/p/e5353a1a752c)
 
-######github上博客搭建
+####github上博客搭建
 __1__.[github上搭建属于自己的博客](http://msching.github.io/blog/2014/04/11/starting/)<br/>
 __2__.[github上搭建属于自己的博客](ravenw.com/blog/2011/08/27/blog-with-jekyll/)<br/>
 __3__.[github上搭建属于自己的博客](http://limboy.me/tech/2010/08/25/make-github-as-blog-engine.html)<br/>
 __4__.[github上搭建数以自己的博客](http://www.cnblogs.com/purediy/archive/2013/03/07/2948892.html)
-######jsPath
+
+####jsPath
 __1__.[jsPath系列](http://blog.cnbang.net/tech/2808/)
 
 __2__.[jspath系列](http://www.jianshu.com/p/5bbee1993962)
@@ -193,7 +196,7 @@ __3__.[jspath系列](http://blog.cnbang.net/works/2767/)
 __4__.[JSPatch 实时修复线上bug](http://www.jianshu.com/p/5bbee1993962)
 
 
-######推送系列
+####推送系列
 
 __1__.[一步一步教你做ios推送](http://blog.csdn.net/showhilllee/article/details/8631734)<br/>
 
@@ -203,13 +206,13 @@ __3__.[导出远程推送所需p12或pem文件](http://www.saitjr.com/ios/ios-ex
 
 __4__.[远程推送通知UIRemoteNotification](http://www.saitjr.com/ios/ios-uiremotenotification.html)
 
-#####iOS加急审核系列
+####iOS加急审核系列
 __1__.[加急审核系列](http://blog.csdn.net/showhilllee/article/details/19541493)
 
-######通知和消息机制
+####通知和消息机制
 __1__.[iOS开发系列--通知与消息机制](http://www.cnblogs.com/kenshincui/p/4168532.html)
 
-######动画类
+####动画类
 __1__.[iOS开发系列--动画效果](iOS开发系列--让你的应用“动”起来)
 
 __2__.[CALayer动画](http://blog.csdn.net/maylorchao/article/details/42652161)
@@ -220,11 +223,11 @@ __4__.[二维码系列](http://www.appcoda.com/qr-code-ios-programming-tutorial/
 
 __5__.[使用 iOS 8 Spring Animation API 创建动画](http://www.renfei.org/blog/ios-8-spring-animation.html)
 
-######bug调试
+####bug调试
 
 __1__.[iOS应用崩溃日志分析](http://www.cocoachina.com/ios/20130725/6677.html)
 
-######给自己的库添加cocoapods支持
+####给自己的库添加cocoapods支持
 __1__.[博客实现](http://www.brighttj.com/ios/ios-trunk-cocoapods.html)
 
 __2__.[博客实现](http://blog.csdn.net/woaifen3344/article/details/44786417)
@@ -237,19 +240,19 @@ __5__.[博客实现](http://blog.devtang.com/blog/2014/05/25/use-cocoapod-to-man
 
 __6__.[如何编写一个CocoaPods的spec文件](http://ishalou.com/blog/2012/10/16/how-to-create-a-cocoapods-spec-file/)
 
-######iOS使用动态库
+####iOS使用动态库
 __1__.[WWDC2014之iOS使用动态库](http://foggry.com/blog/2014/06/12/wwdc2014zhi-iosshi-yong-dong-tai-ku/)
 
-######iOS应用上架
+####iOS应用上架
 __1__.[iOS应用上架](http://www.saitjr.com/ios/ios-publish-app.html)
 
-#####蓝牙系列
+####蓝牙系列
 __1__.[iOS蓝牙系列](http://www.jianshu.com/p/84b5b834b942?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=qq)
 
-######iOS真机调试
+####iOS真机调试
 __1__.[iOS真机调试](http://www.brighttj.com/ios/ios-debugging.html)
 
-######WKWebView
+####WKWebView
 __1__.[WKWebView的新特性与使用](http://www.saitjr.com/ios/ios-wkwebview-new-features-and-use.html)
 
 ######iOS代码规范
@@ -329,25 +332,29 @@ __5__.[Categories](https://github.com/shaojiankui/IOS-Categories) IOS-Categories
 
 __1__.[iOS系统下检查第三方APP是否安装及跳转启动](http://www.jianshu.com/p/28f517775214)
 
-###进度条系列
+####系统声音类
+
+__1__.[系统声音服务与震动](http://www.cnblogs.com/wayne23/p/3596772.html)
+
+####进度条系列
 
 __1__.[iOS 使用NJKWebViewProgress做webview进度条](http://www.jianshu.com/p/318e774d82fe)
 
-###约束系列
+####约束系列
 __1__.[Content Hugging Priority 和 Content Compression Resistance Priority](http://jerrytian.com/2016/01/27/content-hugging-priority-he-content-compression-resistance-priority/)
 __2__.[Autolayout约束动画化](http://www.cocoachina.com/ios/20160331/15841.html)
 
-###相册系列AssetsLibrary
+####相册系列AssetsLibrary
 
 __1__.[使用AssetsLibrary做自定义相册选择器](http://mikora.github.io/2016/01/08/使用AssetsLibrary做自定义相册选择器)
 
-###Socket
+####Socket
 
 __1__.[深入浅出－iOS的TCP/IP协议族剖析&&Socket](http://www.jianshu.com/p/cc756016243b)
 
 __2__.[深入浅出－网络七层模型&&网络数据包](http://www.jianshu.com/p/4b9d43c0571a)
 
-###xcode打包
+####xcode打包
 
 __1__.[iOS打包成ipa包](http://www.jianshu.com/p/9df7d8930a3e)
 
@@ -393,3 +400,7 @@ __1__.[如何在iOS上创建矢量图形](http://www.cocoachina.com/ios/20160330
 
 ##### ReplayKit框架
 __1__.[iOS 9学习系列:ReplayKit框架入门](www.cocoachina.com/ios/20160318/15716.html)
+
+####通讯录、蓝牙、内购、GameCenter、iCloud、Passbook系统服务开发汇总
+
+__1__.[蓝牙，通讯录系列](http://www.cnblogs.com/kenshincui/p/4220402.html#in-appPurchase)
