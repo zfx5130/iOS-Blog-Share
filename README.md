@@ -404,3 +404,7 @@ __1__.[iOS 9学习系列:ReplayKit框架入门](www.cocoachina.com/ios/20160318/
 ####通讯录、蓝牙、内购、GameCenter、iCloud、Passbook系统服务开发汇总
 
 __1__.[蓝牙，通讯录系列](http://www.cnblogs.com/kenshincui/p/4220402.html#in-appPurchase)
+
+
+#####iOS设计规范
+__1__.[iOS Human Interface Guidelines ](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/Principles.html#//apple_ref/doc/uid/TP40006556-CH4-SW1)
