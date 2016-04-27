@@ -408,3 +408,8 @@ __1__.[蓝牙，通讯录系列](http://www.cnblogs.com/kenshincui/p/4220402.htm
 
 #####iOS设计规范
 __1__.[iOS Human Interface Guidelines ](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/Principles.html#//apple_ref/doc/uid/TP40006556-CH4-SW1)
+
+###Swift系列
+
+####guard语法运用
+__1__[guard语法](http://www.jianshu.com/p/3a8e45af7fdd)
