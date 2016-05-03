@@ -57,6 +57,8 @@ __24__.[iOS开源项目汇总](http://www.cocoachina.com/bbs/read.php?tid-47282.
 
 __25__.[iOS面试题](http://www.jianshu.com/p/2e7ae4457083?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=weibo)
 
+__26__.[Swift官方文档](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Inheritance.html#//apple_ref/doc/uid/TP40014097-CH17-ID193)
+
 #####二.大神博客网站汇总
 
 __1__.[bawn的技术博客](http://bawn.github.io/)
