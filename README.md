@@ -415,3 +415,17 @@ __1__.[iOS Human Interface Guidelines ](https://developer.apple.com/library/ios/
 
 ####guard语法运用
 __1__[guard语法](http://www.jianshu.com/p/3a8e45af7fdd)
+
+
+
+####单元测试
+
+__1__.[Swift单元测试](http://letsswift.com/2014/06/swift-unit-test/)
+
+__2__.[使用swift给objc项目做单元测试](http://www.jianshu.com/p/f13fc6aed467)
+
+
+####Carthage使用
+__1__.[Carthage:去中心化的Cocoa依赖管理器](http://www.cocoachina.com/ios/20141204/10528.html)
+
+__2__.[Carthage使用](http://www.jianshu.com/p/bf263c596538)
