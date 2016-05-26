@@ -431,3 +431,7 @@ __2__.[使用swift给objc项目做单元测试](http://www.jianshu.com/p/f13fc6a
 __1__.[Carthage:去中心化的Cocoa依赖管理器](http://www.cocoachina.com/ios/20141204/10528.html)
 
 __2__.[Carthage使用](http://www.jianshu.com/p/bf263c596538)
+
+####IPV6
+
+__1__.[IPV6](http://www.jianshu.com/p/a6bab07c4062)
