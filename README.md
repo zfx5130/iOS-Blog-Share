@@ -61,6 +61,8 @@ __26__.[Swift官方文档](https://developer.apple.com/library/ios/documentation
 
 __27__.[学习视频](https://boxueio.com/category/swift)
 
+__28__.[少数派](http://sspai.com/34396)
+
 #####二.大神博客网站汇总
 
 __1__.[bawn的技术博客](http://bawn.github.io/)
@@ -172,6 +174,8 @@ __56__.[庞海礁的个人空间](http://www.olinone.com/?paged=2)
 __57__.[优秀开源代码解读:RestKit的使用教程](http://www.cocoachina.com/industry/20140102/7641.html)
 
 __58__.[标哥的技术博客](http://www.henishuo.com/about-biaoge/)
+
+__59__.[Bison的技术博客](http://allluckly.cn/)
 
 #####三.用到的网站类
 __1__.[将OC代码装换成JSPatch script](http://bang590.github.io/JSPatchConvertor/)
@@ -355,6 +359,9 @@ __2__.[Autolayout约束动画化](http://www.cocoachina.com/ios/20160331/15841.h
 
 __1__.[使用AssetsLibrary做自定义相册选择器](http://mikora.github.io/2016/01/08/使用AssetsLibrary做自定义相册选择器)
 
+#####iOS开发动画篇之layout动画深入
+__1__.[layout动画深入](http://allluckly.cn/%E6%8A%95%E7%A8%BF/tuogao34?from=timeline&isappinstalled=1)
+
 #####Socket
 
 __1__.[深入浅出－iOS的TCP/IP协议族剖析&&Socket](http://www.jianshu.com/p/cc756016243b)
@@ -436,4 +443,7 @@ __2__.[Carthage使用](http://www.jianshu.com/p/bf263c596538)
 #####IPV6
 
 __1__.[IPV6](http://www.jianshu.com/p/a6bab07c4062)
+
+#####Swift PhotoKit
+__1__.[iOS开发之Swift初体验PhotoKit](http://allluckly.cn/%E6%8A%95%E7%A8%BF/tuogao44)
 
