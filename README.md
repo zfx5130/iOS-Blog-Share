@@ -352,7 +352,8 @@ __1__.[系统声音服务与震动](http://www.cnblogs.com/wayne23/p/3596772.htm
 __1__.[iOS 使用NJKWebViewProgress做webview进度条](http://www.jianshu.com/p/318e774d82fe)
 
 #####约束系列
-__1__.[Content Hugging Priority 和 Content Compression Resistance Priority](http://jerrytian.com/2016/01/27/content-hugging-priority-he-content-compression-resistance-priority/)
+__1__.[Content Hugging Priority 和 Content Compression Resistance Priority](http://jerrytian.com/)
+
 __2__.[Autolayout约束动画化](http://www.cocoachina.com/ios/20160331/15841.html)
 
 #####相册系列AssetsLibrary
