@@ -238,6 +238,12 @@ __5__.[使用 iOS 8 Spring Animation API 创建动画](http://www.renfei.org/blo
 
 __1__.[iOS应用崩溃日志分析](http://www.cocoachina.com/ios/20130725/6677.html)
 
+#####Cocoapods安装
+
+__1__.[Cocoapods安装步骤](http://www.cnblogs.com/jys509/p/4839803.html)
+
+__2__.[CocoaPods 安装使用](http://www.jianshu.com/p/071d30a3af02)
+
 #####给自己的库添加cocoapods支持
 __1__.[博客实现](http://www.brighttj.com/ios/ios-trunk-cocoapods.html)
 
@@ -448,3 +454,8 @@ __1__.[IPV6](http://www.jianshu.com/p/a6bab07c4062)
 #####Swift PhotoKit
 __1__.[iOS开发之Swift初体验PhotoKit](http://allluckly.cn/%E6%8A%95%E7%A8%BF/tuogao44)
 
+#####Subline
+
+__1__.[Sublime Text 主题](http://webres.wang/best-sublime-text-3-themes-of-2015-and-2016/)
+
+__2__.[Sublime Text常用插件总结及Package Control安装方法 ](http://9iphp.com/web/html/1260.html)
