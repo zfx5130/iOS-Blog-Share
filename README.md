@@ -177,6 +177,10 @@ __58__.[标哥的技术博客](http://www.henishuo.com/about-biaoge/)
 
 __59__.[Bison的技术博客](http://allluckly.cn/)
 
+__60__.[技术博客](https://github.com/ming1016/study)
+
+__61__.[Starming的技术博客](http://www.starming.com/index.php?v=index&pg=2)
+
 #####三.用到的网站类
 __1__.[将OC代码装换成JSPatch script](http://bang590.github.io/JSPatchConvertor/)
 
