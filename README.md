@@ -181,6 +181,8 @@ __60__.[技术博客](https://github.com/ming1016/study)
 
 __61__.[Starming的技术博客](http://www.starming.com/index.php?v=index&pg=2)
 
+__62__.[Draveness的技术博客](http://draveness.me/)
+
 #####三.用到的网站类
 __1__.[将OC代码装换成JSPatch script](http://bang590.github.io/JSPatchConvertor/)
 
@@ -463,3 +465,14 @@ __1__.[iOS开发之Swift初体验PhotoKit](http://allluckly.cn/%E6%8A%95%E7%A8%B
 __1__.[Sublime Text 主题](http://webres.wang/best-sublime-text-3-themes-of-2015-and-2016/)
 
 __2__.[Sublime Text常用插件总结及Package Control安装方法 ](http://9iphp.com/web/html/1260.html)
+
+#####夜间模式
+__1__.[成熟的夜间模式解决方案](http://draveness.me/night/)
+
+#####Alamofire分析
+__1__.[iOS源代码分析-Alamofire](http://draveness.me/ios-yuan-dai-ma-fen-xi-alamofire/)
+
+#####KVO
+
+__1__.[KVO](http://www.jianshu.com/p/742b4b248da9)
+
