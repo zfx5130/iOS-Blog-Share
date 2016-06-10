@@ -183,6 +183,10 @@ __61__.[Starming的技术博客](http://www.starming.com/index.php?v=index&pg=2)
 
 __62__.[Draveness的技术博客](http://draveness.me/)
 
+__63__.[王垠的技术博客](http://www.yinwang.org/)
+
+__64__.[百度Hi团队iOS技术周报](https://github.com/BaiduHiDeviOS/iOS-Tech-Weekly)
+
 #####三.用到的网站类
 __1__.[将OC代码装换成JSPatch script](http://bang590.github.io/JSPatchConvertor/)
 
