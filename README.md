@@ -480,3 +480,9 @@ __1__.[iOS源代码分析-Alamofire](http://draveness.me/ios-yuan-dai-ma-fen-xi-
 
 __1__.[KVO](http://www.jianshu.com/p/742b4b248da9)
 
+
+#####Swift运算符
+
+__1__.[Swift运算符](http://www.jianshu.com/p/ec312bac169a)
+__2__.[自定义Swift运算符](http://www.cnblogs.com/comsokey/p/Swift1.html)
+
