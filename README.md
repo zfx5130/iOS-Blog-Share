@@ -187,6 +187,8 @@ __63__.[王垠的技术博客](http://www.yinwang.org/)
 
 __64__.[百度Hi团队iOS技术周报](https://github.com/BaiduHiDeviOS/iOS-Tech-Weekly)
 
+__65__.[技术博客](http://liuyanwei.jumppo.com/2015/09/07/ios-BLE-3.html)
+
 #####三.用到的网站类
 __1__.[将OC代码装换成JSPatch script](http://bang590.github.io/JSPatchConvertor/)
 
