@@ -493,3 +493,8 @@ __2__.[自定义Swift运算符](http://www.cnblogs.com/comsokey/p/Swift1.html)
 __1__.[iOS 10 SDK 新特性](https://onevcat.com/2016/06/ios-10-sdk/)
 
 __2__.[iOS新特性](http://mp.weixin.qq.com/s?plg_nld=1&plg_uin=1&mid=2652545748&idx=1&plg_nld=1&scene=23&plg_auth=1&__biz=MjM5OTM0MzIwMQ%3D%3D&plg_dev=1&srcid=0616pfvONfuz8xa1sRQ7Z5OH&plg_usr=1&plg_vkey=1&sn=75097fd185a3f2ba6ac5e855d68e8001#rd)
+
+######Swift之 ? 和 !
+__1__.[Swift之 ? 和 !](http://www.cnblogs.com/zhouyinhui/p/3804291.html)
+
+__2__.[Swift之Optionals](http://www.yiibai.com/swift/swift_optionals.html)
