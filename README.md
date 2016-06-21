@@ -501,3 +501,9 @@ __1__.[Swift之 ? 和 !](http://www.cnblogs.com/zhouyinhui/p/3804291.html)
 __2__.[Swift之Optionals](http://www.yiibai.com/swift/swift_optionals.html)
 
 __3__.[Swift 可选值(Optional Values)介绍 ](http://blog.csdn.net/zhangao0086/article/details/38640209)
+
+######iOS动画
+
+__1__.[加载动画实现说明](http://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=2652545921&idx=1&sn=9ec8bdcbf05e7d109c85cf990be192b3&scene=23&srcid=06217BSsVHsZq9JRywMztztK#rd)
+
+__2__.[加载动画Demo](https://github.com/Loveway/HWLoadingAnimation)
