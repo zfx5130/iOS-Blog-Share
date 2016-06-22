@@ -189,6 +189,7 @@ __64__.[百度Hi团队iOS技术周报](https://github.com/BaiduHiDeviOS/iOS-Tech
 
 __65__.[技术博客](http://liuyanwei.jumppo.com/2015/09/07/ios-BLE-3.html)
 
+__65__.[蒸米的技术博客](http://drops.wooyun.org/author/%E8%92%B8%E7%B1%B3)
 #####三.用到的网站类
 __1__.[将OC代码装换成JSPatch script](http://bang590.github.io/JSPatchConvertor/)
 
@@ -507,3 +508,7 @@ __3__.[Swift 可选值(Optional Values)介绍 ](http://blog.csdn.net/zhangao0086
 __1__.[加载动画实现说明](http://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=2652545921&idx=1&sn=9ec8bdcbf05e7d109c85cf990be192b3&scene=23&srcid=06217BSsVHsZq9JRywMztztK#rd)
 
 __2__.[加载动画Demo](https://github.com/Loveway/HWLoadingAnimation)
+
+#####iOSAppHook
+
+__1__.[iOSAppHook](https://github.com/Urinx/iOSAppHook)
