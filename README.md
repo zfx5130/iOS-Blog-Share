@@ -512,3 +512,18 @@ __2__.[加载动画Demo](https://github.com/Loveway/HWLoadingAnimation)
 #####iOSAppHook
 
 __1__.[iOSAppHook](https://github.com/Urinx/iOSAppHook)
+
+#####模仿下拉刷新实现
+
+__1__.[tableview刷新实现](http://zeeyang.com/2016/01/06/iOS_TableView_refresh_controller-two/)
+
+__2__.[动画效果](http://uimovement.com/?page=2)
+
+####卡片切换Demo
+
+__1__.[卡片切换Demo](https://github.com/Yuzeyang/GCCardViewControllerhttps://github.com/Yuzeyang/GCCardViewController)
+
+#######Realm使用
+__1__[Realm使用](http://swift.gg/2015/12/08/building-a-todo-app-using-realm-and-swift/)
+
+__2__[官方使用说明](https://realm.io/docs/swift/latest/)
