@@ -302,9 +302,11 @@ __2__.[Bison教你3分钟集成支付宝好友分享](http://www.jianshu.com/p/0
 __1__.[细说GCD（Grand Central Dispatch）如何用](http://www.jianshu.com/p/fbe6a654604c)
 
 #####事件响应链 
+
 __1__.[事件传递响应链](http://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=402300621&idx=2&sn=e0d201d397756d6f7f6620e82dc4247a&scene=23&srcid=0114Tm4O9lAJm0seONFc2hMT#rd)
 
 #####自定义转场动画
+
 __1__.[iOS自定义转场详解](http://kittenyang.com/magicmove/)
 
 __2.__.[iOS自定义转场详解](http://kittenyang.com/3dfliptransition/)
@@ -314,6 +316,7 @@ __3__.[iOS自定义转场详解](http://kittenyang.com/pingtransition/)
 __4__.[iOS自定义转场](http://www.jianshu.com/p/45434f73019e)
 
 __5__.[一键自定义转场动画](http://www.cocoachina.com/ios/20160407/15881.html)
+
 #####RunTime系列
 
 __1__.[Runtime应用之关联对象和MethodSwizzling](http://www.jianshu.com/p/2701e8b2ae76#)
@@ -383,6 +386,7 @@ __2__.[Autolayout约束动画化](http://www.cocoachina.com/ios/20160331/15841.h
 __1__.[使用AssetsLibrary做自定义相册选择器](http://mikora.github.io/2016/01/08/使用AssetsLibrary做自定义相册选择器)
 
 #####iOS开发动画篇之layout动画深入
+
 __1__.[layout动画深入](http://allluckly.cn/%E6%8A%95%E7%A8%BF/tuogao34?from=timeline&isappinstalled=1)
 
 #####Socket
