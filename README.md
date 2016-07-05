@@ -543,3 +543,7 @@ __3__.[如何生成SSH key](www.jianshu.com/p/31cbbbc5f9fa/)
 __1__[Realm使用](http://swift.gg/2015/12/08/building-a-todo-app-using-realm-and-swift/)
 
 __2__[官方使用说明](https://realm.io/docs/swift/latest/)
+
+######插件管理工具
+
+__1__.[Alcatraz](http://alcatraz.io/)
