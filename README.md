@@ -63,6 +63,8 @@ __27__.[学习视频](https://boxueio.com/category/swift)
 
 __28__.[少数派](http://sspai.com/34396)
 
+__30__.[Swift项目中可能用到的第三方框架](http://www.jianshu.com/p/83c069022e45)
+
 #####二.大神博客网站汇总
 
 __1__.[bawn的技术博客](http://bawn.github.io/)
