@@ -193,6 +193,8 @@ __65__.[蒸米的技术博客](http://drops.wooyun.org/author/%E8%92%B8%E7%B1%B3
 
 __66__.[大神博客](http://www.jianshu.com/users/12201cdd5d7a/latest_articles)
 
+__67__.[大神博客](http://www.jianshu.com/p/b2570953d95c)
+
 #####三.用到的网站类
 __1__.[将OC代码装换成JSPatch script](http://bang590.github.io/JSPatchConvertor/)
 
@@ -547,3 +549,32 @@ __2__[官方使用说明](https://realm.io/docs/swift/latest/)
 ######插件管理工具
 
 __1__.[Alcatraz](http://alcatraz.io/)
+
+
+######视频直播项目
+__1__.[iOS视频直播初窥:高仿<喵播APP>](http://www.jianshu.com/p/b8db6c142aad)
+
+__2__.[基于IOS的手机视频直播SDK](https://github.com/runner365/LiveVideoCoreSDK)
+
+__3__.[直播App的基本功能](https://github.com/GrayJIAXU/520Linkee)
+
+__4__.[iOS中集成ijkplayer视频直播框架](http://www.jianshu.com/p/1f06b27b3ac0)
+
+######Touch ID简单实用
+__1__.[Touch ID](http://www.jianshu.com/p/1d0e5c43b44d)
+
+#####React Native
+
+__1__.[React Native的安装](http://www.jianshu.com/p/1ed57dd8b7eb)
+
+__2__.[Hello,React Native](http://www.jianshu.com/p/9f682fbb4c83)
+
+
+#####圆形进度条
+__1__.[圆形进度条demo](https://github.com/WZF-Fei/ZFProgressView)
+
+#####第三方charts使用
+__1__.[iOS在OC项目中集成Charts绘制图表框架](http://www.jianshu.com/p/b2570953d95c)
+
+#####获取系统通讯录
+__1__.[iOS9.0之前和之后获取通讯录的方法](http://www.jianshu.com/p/db0186b7ca5f)
