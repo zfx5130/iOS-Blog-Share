@@ -583,3 +583,6 @@ __1__.[iOS9.0之前和之后获取通讯录的方法](http://www.jianshu.com/p/d
 
 #####在Swift项目中使用OC，在OC项目中使用Swift
 __1__.[在Swift项目中使用OC，在OC项目中使用Swift](http://kittenyang.com/swiftandoc/)
+
+#####CAShapeLayer使用
+__1__.[CAShapeLayer仿滴滴的抢单倒计时](http://www.jianshu.com/p/32b286a6935a)
