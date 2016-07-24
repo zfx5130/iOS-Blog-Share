@@ -562,6 +562,8 @@ __3__.[直播App的基本功能](https://github.com/GrayJIAXU/520Linkee)
 
 __4__.[iOS中集成ijkplayer视频直播框架](http://www.jianshu.com/p/1f06b27b3ac0)
 
+__5__.[仿映客直播](http://www.jianshu.com/p/5b1341e97757)
+
 ######Touch ID简单实用
 __1__.[Touch ID](http://www.jianshu.com/p/1d0e5c43b44d)
 
@@ -586,3 +588,10 @@ __1__.[在Swift项目中使用OC，在OC项目中使用Swift](http://kittenyang.
 
 #####CAShapeLayer使用
 __1__.[CAShapeLayer仿滴滴的抢单倒计时](http://www.jianshu.com/p/32b286a6935a)
+
+##### UIStackView
+__1__.[UIStackView](http://www.jianshu.com/p/ed981a87080b)
+
+######iOS获取图片资源
+
+__1__.[教你快速拿到iOS应用中所有图片资源](http://www.jianshu.com/p/78dea31f2109)
