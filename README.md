@@ -595,3 +595,11 @@ __1__.[UIStackView](http://www.jianshu.com/p/ed981a87080b)
 ######iOS获取图片资源
 
 __1__.[教你快速拿到iOS应用中所有图片资源](http://www.jianshu.com/p/78dea31f2109)
+
+
+#####使用Xcode7的Instruments检测解决iOS内存泄露
+__1__.[使用Xcode7的Instruments检测解决iOS内存泄露](http://www.cnblogs.com/iOSv587country/p/4862989.html)
+
+#####基于 CoreText 实现的高性能 UITableView
+__1__.[基于 CoreText 实现的高性能 UITableView](http://ios.jobbole.com/86851/)
+
