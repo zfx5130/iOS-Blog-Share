@@ -603,3 +603,5 @@ __1__.[使用Xcode7的Instruments检测解决iOS内存泄露](http://www.cnblogs
 #####基于 CoreText 实现的高性能 UITableView
 __1__.[基于 CoreText 实现的高性能 UITableView](http://ios.jobbole.com/86851/)
 
+######iOS开发网络篇—HTTP协议
+__1__.[iOS开发网络篇—HTTP协议](http://www.cnblogs.com/wendingding/p/3813466.html)
