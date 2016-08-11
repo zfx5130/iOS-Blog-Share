@@ -65,6 +65,17 @@ __28__.[少数派](http://sspai.com/34396)
 
 __30__.[Swift项目中可能用到的第三方框架](http://www.jianshu.com/p/83c069022e45)
 
+######简述iOS专题系列
+__1__.[iOS开发技巧](http://www.jianshu.com/collection/19dbe28002a3)
+
+__2__.[iOS Developer](http://www.jianshu.com/collection/3233d1a249ca)
+
+__3__.[程序员](http://www.jianshu.com/collection/NEt52a)
+
+__4__.[iOS 开发随笔](http://www.jianshu.com/collection/4b2a71963af0)
+
+__5__.[iOSApp推荐](http://www.jianshu.com/collection/1fd00108af4e)
+
 #####二.大神博客网站汇总
 
 __1__.[bawn的技术博客](http://bawn.github.io/)
@@ -605,11 +616,19 @@ __1__.[基于 CoreText 实现的高性能 UITableView](http://ios.jobbole.com/86
 
 ######iOS开发网络篇—HTTP协议
 __1__.[iOS开发网络篇—HTTP协议](http://www.cnblogs.com/wendingding/p/3813466.html)
+
 __2__.[Socket通信原理简介](http://www.jianshu.com/p/90348ef3f41e)
 
 ######Cocoapods安装
 __1__.[关于CocoaPods 的安装和使用](http://www.jianshu.com/p/bc4b80d70019)
+
 __2__.[关于CocoaPods 的安装和使用](http://blog.csdn.net/jsjxiaobing/article/details/51890567)
 
 ######Swift的struct设计理念
 __1__[Swift的struct设计理念 - 简单又可靠](http://www.jianshu.com/p/8011b638b3a9)
+
+######手把手教你利用Jenkins持续集成iOS项目
+__1__.[手把手教你利用Jenkins持续集成iOS项目](http://www.jianshu.com/p/41ecb06ae95f)
+
+######Xcode 8 Auto Layout新特性
+__1__.[WWDC2016 Session笔记 - Xcode 8 Auto Layout新特性](http://www.jianshu.com/p/2521c610fac3)
