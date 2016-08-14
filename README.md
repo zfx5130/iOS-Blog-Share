@@ -605,11 +605,25 @@ __1__.[基于 CoreText 实现的高性能 UITableView](http://ios.jobbole.com/86
 
 ######iOS开发网络篇—HTTP协议
 __1__.[iOS开发网络篇—HTTP协议](http://www.cnblogs.com/wendingding/p/3813466.html)
+
 __2__.[Socket通信原理简介](http://www.jianshu.com/p/90348ef3f41e)
 
 ######Cocoapods安装
 __1__.[关于CocoaPods 的安装和使用](http://www.jianshu.com/p/bc4b80d70019)
+
 __2__.[关于CocoaPods 的安装和使用](http://blog.csdn.net/jsjxiaobing/article/details/51890567)
 
 ######Swift的struct设计理念
 __1__[Swift的struct设计理念 - 简单又可靠](http://www.jianshu.com/p/8011b638b3a9)
+
+#####Github协作项目
+__1__[在 GitHub 上进行协同写作](http://mp.weixin.qq.com/s?__biz=MzI4NjAzODk0OQ==&mid=2652684563&idx=1&sn=2651788ca91855dde985d4b83610eb1b&scene=1&srcid=0813IYgH3Id2Fw2AeEbao3G2#rd)
+
+####GCD
+__1__.[GCD](http://www.jianshu.com/p/017bd65ba86b)
+
+#####Xcode之断点调试详解
+___1__.[Xcode之断点调试详解](http://www.jianshu.com/p/4b1cde902f2d)
+
+#####UIStackView学习分享， 纯代码实现
+__1__.[UIStackView学习分享， 纯代码实现](http://www.jianshu.com/p/213702004d0d)
