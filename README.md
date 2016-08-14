@@ -634,11 +634,9 @@ __1__[在 GitHub 上进行协同写作](http://mp.weixin.qq.com/s?__biz=MzI4NjAz
 __1__.[GCD](http://www.jianshu.com/p/017bd65ba86b)
 
 #####Xcode之断点调试详解
-___1__.[Xcode之断点调试详解](http://www.jianshu.com/p/4b1cde902f2d)
-
+__1__.[Xcode之断点调试详解](http://www.jianshu.com/p/4b1cde902f2d)
 #####UIStackView学习分享， 纯代码实现
 __1__.[UIStackView学习分享， 纯代码实现](http://www.jianshu.com/p/213702004d0d)
-=======
 ######手把手教你利用Jenkins持续集成iOS项目
 __1__.[手把手教你利用Jenkins持续集成iOS项目](http://www.jianshu.com/p/41ecb06ae95f)
 
