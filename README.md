@@ -65,6 +65,17 @@ __28__.[少数派](http://sspai.com/34396)
 
 __30__.[Swift项目中可能用到的第三方框架](http://www.jianshu.com/p/83c069022e45)
 
+######简述iOS专题系列
+__1__.[iOS开发技巧](http://www.jianshu.com/collection/19dbe28002a3)
+
+__2__.[iOS Developer](http://www.jianshu.com/collection/3233d1a249ca)
+
+__3__.[程序员](http://www.jianshu.com/collection/NEt52a)
+
+__4__.[iOS 开发随笔](http://www.jianshu.com/collection/4b2a71963af0)
+
+__5__.[iOSApp推荐](http://www.jianshu.com/collection/1fd00108af4e)
+
 #####二.大神博客网站汇总
 
 __1__.[bawn的技术博客](http://bawn.github.io/)
@@ -627,3 +638,9 @@ ___1__.[Xcode之断点调试详解](http://www.jianshu.com/p/4b1cde902f2d)
 
 #####UIStackView学习分享， 纯代码实现
 __1__.[UIStackView学习分享， 纯代码实现](http://www.jianshu.com/p/213702004d0d)
+=======
+######手把手教你利用Jenkins持续集成iOS项目
+__1__.[手把手教你利用Jenkins持续集成iOS项目](http://www.jianshu.com/p/41ecb06ae95f)
+
+######Xcode 8 Auto Layout新特性
+__1__.[WWDC2016 Session笔记 - Xcode 8 Auto Layout新特性](http://www.jianshu.com/p/2521c610fac3)
