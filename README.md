@@ -551,7 +551,7 @@ __2__.[官方教程2](https://help.github.com/articles/adding-a-new-ssh-key-to-y
 
 __3__.[如何生成SSH key](www.jianshu.com/p/31cbbbc5f9fa/)
 
-#####Realm使用
+######Realm使用
 
 __1__[Realm使用](http://swift.gg/2015/12/08/building-a-todo-app-using-realm-and-swift/)
 
@@ -560,7 +560,6 @@ __2__[官方使用说明](https://realm.io/docs/swift/latest/)
 ######插件管理工具
 
 __1__.[Alcatraz](http://alcatraz.io/)
-
 
 ######视频直播项目
 __1__.[iOS视频直播初窥:高仿<喵播APP>](http://www.jianshu.com/p/b8db6c142aad)
@@ -574,14 +573,13 @@ __4__.[iOS中集成ijkplayer视频直播框架](http://www.jianshu.com/p/1f06b27
 __5__.[仿映客直播](http://www.jianshu.com/p/5b1341e97757)
 
 ######Touch ID简单实用
+
 __1__.[Touch ID](http://www.jianshu.com/p/1d0e5c43b44d)
 
 #####React Native
 
 __1__.[React Native的安装](http://www.jianshu.com/p/1ed57dd8b7eb)
-
 __2__.[Hello,React Native](http://www.jianshu.com/p/9f682fbb4c83)
-
 
 #####圆形进度条
 __1__.[圆形进度条demo](https://github.com/WZF-Fei/ZFProgressView)
@@ -625,8 +623,22 @@ __2__.[关于CocoaPods 的安装和使用](http://blog.csdn.net/jsjxiaobing/arti
 ######Swift的struct设计理念
 __1__[Swift的struct设计理念 - 简单又可靠](http://www.jianshu.com/p/8011b638b3a9)
 
+#####Github协作项目
+__1__[在 GitHub 上进行协同写作](http://mp.weixin.qq.com/s?__biz=MzI4NjAzODk0OQ==&mid=2652684563&idx=1&sn=2651788ca91855dde985d4b83610eb1b&scene=1&srcid=0813IYgH3Id2Fw2AeEbao3G2#rd)
+
+####GCD
+__1__.[GCD](http://www.jianshu.com/p/017bd65ba86b)
+
+#####Xcode之断点调试详解
+__1__.[Xcode之断点调试详解](http://www.jianshu.com/p/4b1cde902f2d)
+#####UIStackView学习分享， 纯代码实现
+__1__.[UIStackView学习分享， 纯代码实现](http://www.jianshu.com/p/213702004d0d)
+
 ######手把手教你利用Jenkins持续集成iOS项目
 __1__.[手把手教你利用Jenkins持续集成iOS项目](http://www.jianshu.com/p/41ecb06ae95f)
 
-######Xcode 8 Auto Layout新特性
+###### Xcode 8 Auto Layout新特性
 __1__.[WWDC2016 Session笔记 - Xcode 8 Auto Layout新特性](http://www.jianshu.com/p/2521c610fac3)
+
+######ios 高效的写好一个UI界面
+__1__.[ios 高效的写好一个UI界面](http://www.jianshu.com/p/63ee533a7705)
