@@ -5,6 +5,7 @@
 [head]:https://raw.githubusercontent.com/zfx5130/iOS-Blog-Share/master/shotImage/icon.png "点击图片进入我的博客"
 
 #####一.iOS学习资料类
+
 __1__.[斯坦福iOS8课程](https://github.com/X140Yu/Developing_iOS_8_Apps_With_Swift
 )
 
@@ -441,13 +442,11 @@ __1__.[iOS开发中如何检测当前运行商类型(移动、联通、电信)](
 __1__.[一步一步实现iOS微信自动抢红包(非越狱)](http://www.jianshu.com/p/189afbe3b429)
 
 #####国际化
-
 __1__.[iOS之应用程序国际化](http://www.jianshu.com/p/63a1c1a40b93)
 
 __2__.[IOS程序国际化](http://www.cnblogs.com/zhidao-chen/archive/2012/07/08/2581977.html)
 
 #####OC与Swift混编
-
 __1__.[OC与Swift混编](http://blog.sina.com.cn/s/blog_8d1bc23f0102v5tl.html)
 
 #####添加矢量图
@@ -460,7 +459,6 @@ __1__.[iOS 9学习系列:ReplayKit框架入门](www.cocoachina.com/ios/20160318/
 #####通讯录、蓝牙、内购、GameCenter、iCloud、Passbook系统服务开发汇总
 
 __1__.[蓝牙，通讯录系列](http://www.cnblogs.com/kenshincui/p/4220402.html#in-appPurchase)
-
 
 #####iOS设计规范
 __1__.[iOS Human Interface Guidelines ](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/Principles.html#//apple_ref/doc/uid/TP40006556-CH4-SW1)
