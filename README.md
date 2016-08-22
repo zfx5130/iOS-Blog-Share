@@ -77,6 +77,8 @@ __4__.[iOS 开发随笔](http://www.jianshu.com/collection/4b2a71963af0)
 
 __5__.[iOSApp推荐](http://www.jianshu.com/collection/1fd00108af4e)
 
+__6__.[Storyboards vs NIB vs Code 大辩论](http://ios.jobbole.com/88119/)
+
 #####二.大神博客网站汇总
 
 __1__.[bawn的技术博客](http://bawn.github.io/)
@@ -642,3 +644,6 @@ __1__.[WWDC2016 Session笔记 - Xcode 8 Auto Layout新特性](http://www.jianshu
 
 ######ios 高效的写好一个UI界面
 __1__.[ios 高效的写好一个UI界面](http://www.jianshu.com/p/63ee533a7705)
+
+######iOS 本地自动打包工具
+__1__.[iOS 本地自动打包工具](http://www.jianshu.com/p/3e07a02ab948)
