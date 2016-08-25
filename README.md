@@ -66,6 +66,11 @@ __28__.[少数派](http://sspai.com/34396)
 
 __30__.[Swift项目中可能用到的第三方框架](http://www.jianshu.com/p/83c069022e45)
 
+__31__.[七牛云存储](http://www.qiniu.com/)
+
+__32__.[极其出色程序员的各种迹象](http://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=2652547351&idx=2&sn=25983c6bdec1dc67a28a0eacefac6141&scene=1&srcid=0825tzEmmV42XPeDBHpdIkn3#rd)
+
+
 ######简述iOS专题系列
 __1__.[iOS开发技巧](http://www.jianshu.com/collection/19dbe28002a3)
 
@@ -210,6 +215,8 @@ __65__.[蒸米的技术博客](http://drops.wooyun.org/author/%E8%92%B8%E7%B1%B3
 __66__.[大神博客](http://www.jianshu.com/users/12201cdd5d7a/latest_articles)
 
 __67__.[大神博客](http://www.jianshu.com/p/b2570953d95c)
+
+__68__.[大神博客](http://blog.callmewhy.com/2016/04/23/opencv-find-qrcode-position/)
 
 #####三.用到的网站类
 __1__.[将OC代码装换成JSPatch script](http://bang590.github.io/JSPatchConvertor/)
@@ -647,3 +654,9 @@ __1__.[ios 高效的写好一个UI界面](http://www.jianshu.com/p/63ee533a7705)
 
 ######iOS 本地自动打包工具
 __1__.[iOS 本地自动打包工具](http://www.jianshu.com/p/3e07a02ab948)
+
+######30分钟掌握这8种页面布局 
+__1__.[30分钟掌握这8种页面布局 ](http://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=2652547380&idx=3&sn=1a177648fffa8139db95aafb81953bf8&scene=1&srcid=0825mtMZBdrO5wCuTmSz2GdM#rd)
+
+######iOS 一分钟搞定加入购物车的交互动画
+__1__.[iOS 一分钟搞定加入购物车的交互动画](http://www.jianshu.com/p/bd650158d44c)
