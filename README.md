@@ -664,4 +664,8 @@ __1__.[iOS 一分钟搞定加入购物车的交互动画](http://www.jianshu.com
 __1__.[iOS10 / Swift3.0 / XCode 8 总结](http://www.jianshu.com/p/06b4586e72f8)
 __2__.[iOS开发 Xcode8中遇到的问题及改动](http://www.jianshu.com/p/90d5323cf510)
 
+####iOS10通知
+__1__.[UserNotifications 框架解析](https://onevcat.com/2016/08/notification/)
+__2__.[WWDC2016 Session笔记 - iOS 10  推送Notification新特性](http://www.jianshu.com/p/9b720efe3779)
+
 
