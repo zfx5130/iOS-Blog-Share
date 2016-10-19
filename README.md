@@ -217,6 +217,8 @@ __67__.[大神博客](http://www.jianshu.com/p/b2570953d95c)
 
 __68__.[大神博客](http://blog.callmewhy.com/2016/04/23/opencv-find-qrcode-position/)
 
+__69__.[大神博客](http://www.jianshu.com/users/12201cdd5d7a/latest_articles)
+
 #####三.用到的网站类
 __1__.[将OC代码装换成JSPatch script](http://bang590.github.io/JSPatchConvertor/)
 
@@ -667,5 +669,10 @@ __2__.[iOS开发 Xcode8中遇到的问题及改动](http://www.jianshu.com/p/90d
 ####iOS10通知
 __1__.[UserNotifications 框架解析](https://onevcat.com/2016/08/notification/)
 __2__.[WWDC2016 Session笔记 - iOS 10  推送Notification新特性](http://www.jianshu.com/p/9b720efe3779)
+
+#####UserNotifications 
+
+__1__.[iOS10-UserNotifications](http://www.jianshu.com/p/b74e52e866fc)
+__2__.[iOS 10 UserNotifications 使用说明](http://www.cocoachina.com/ios/20160926/17645.html)
 
 
