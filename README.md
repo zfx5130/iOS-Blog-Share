@@ -659,3 +659,9 @@ __1__.[30分钟掌握这8种页面布局 ](http://mp.weixin.qq.com/s?__biz=MjM5O
 
 ######iOS 一分钟搞定加入购物车的交互动画
 __1__.[iOS 一分钟搞定加入购物车的交互动画](http://www.jianshu.com/p/bd650158d44c)
+
+#####iOS10 &Xcode8 存在的问题
+__1__.[iOS10 / Swift3.0 / XCode 8 总结](http://www.jianshu.com/p/06b4586e72f8)
+__2__.[iOS开发 Xcode8中遇到的问题及改动](http://www.jianshu.com/p/90d5323cf510)
+
+
