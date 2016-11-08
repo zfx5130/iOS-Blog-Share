@@ -679,3 +679,6 @@ __2__.[iOS 10 UserNotifications 使用说明](http://www.cocoachina.com/ios/2016
 
 __1__.[Python教程](http://python.jobbole.com/)
 
+######pragma 处理警告
+__1__.[#pragma 处理警告](http://www.jianshu.com/p/3c7a4feaee16)
+
