@@ -69,6 +69,7 @@ __31__.[七牛云存储](http://www.qiniu.com/)
 
 __32__.[极其出色程序员的各种迹象](http://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=2652547351&idx=2&sn=25983c6bdec1dc67a28a0eacefac6141&scene=1&srcid=0825tzEmmV42XPeDBHpdIkn3#rd)
 
+__33__.[Nshipster](http://nshipster.cn/)
 
 ######简述iOS专题系列
 __1__.[iOS开发技巧](http://www.jianshu.com/collection/19dbe28002a3)
