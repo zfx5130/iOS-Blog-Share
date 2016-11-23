@@ -71,6 +71,8 @@ __32__.[极其出色程序员的各种迹象](http://mp.weixin.qq.com/s?__biz=Mj
 
 __33__.[Nshipster](http://nshipster.cn/)
 
+__34__.[图片搜身软件image Optim](https://imageoptim.com/howto.html)
+
 ######简述iOS专题系列
 __1__.[iOS开发技巧](http://www.jianshu.com/collection/19dbe28002a3)
 
@@ -683,3 +685,7 @@ __1__.[Python教程](http://python.jobbole.com/)
 ######pragma 处理警告
 __1__.[#pragma 处理警告](http://www.jianshu.com/p/3c7a4feaee16)
 
+###### iOS安装包瘦身
+
+__1__.[iOS安装包瘦身指南](http://www.zoomfeng.com/blog/ipa-size-thin.html)
+__2__.[ipa文件“减肥”初探](http://www.jianshu.com/p/a72d03e92c80)
