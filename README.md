@@ -690,4 +690,12 @@ __1__.[#pragma 处理警告](http://www.jianshu.com/p/3c7a4feaee16)
 ###### iOS安装包瘦身
 
 __1__.[iOS安装包瘦身指南](http://www.zoomfeng.com/blog/ipa-size-thin.html)
+
 __2__.[ipa文件“减肥”初探](http://www.jianshu.com/p/a72d03e92c80)
+
+
+###### Ruby镜像
+
+__1__.[Ruby gems使用方式](https://gems.ruby-china.org/)
+
+__2__.[项目源代码](https://github.com/ruby-china/rubygems-mirror)
