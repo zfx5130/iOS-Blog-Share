@@ -699,3 +699,6 @@ __2__.[ipa文件“减肥”初探](http://www.jianshu.com/p/a72d03e92c80)
 __1__.[Ruby gems使用方式](https://gems.ruby-china.org/)
 
 __2__.[项目源代码](https://github.com/ruby-china/rubygems-mirror)
+
+###### 证书推送
+__1__.[从零开始创建iOS远程推送证书](http://www.jianshu.com/p/8b6ad7294e71)
