@@ -73,6 +73,10 @@ __33__.[Nshipster](http://nshipster.cn/)
 
 __34__.[图片搜身软件image Optim](https://imageoptim.com/howto.html)
 
+__35__.[Vue学习资料](http://www.imooc.com/learn/694)
+
+__36__.[Vue.js学习资料](http://cn.vuejs.org/v2/examples/)
+
 ######简述iOS专题系列
 __1__.[iOS开发技巧](http://www.jianshu.com/collection/19dbe28002a3)
 
