@@ -710,3 +710,12 @@ __2__.[项目源代码](https://github.com/ruby-china/rubygems-mirror)
 
 ###### 证书推送
 __1__.[从零开始创建iOS远程推送证书](http://www.jianshu.com/p/8b6ad7294e71)
+
+
+###### 程序员如何优雅的挣零花钱
+
+__1__.[码市项目](https://mart.coding.net/projects)
+
+__2__.[实现网](http://shixian.com/)
+
+__3__.[程序员如何优雅的挣零花钱？](https://github.com/easychen/howto-make-more-money)
