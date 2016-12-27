@@ -501,6 +501,10 @@ __2__.[Carthage使用](http://www.jianshu.com/p/bf263c596538)
 
 __1__.[IPV6](http://www.jianshu.com/p/a6bab07c4062)
 
+__2__.[IPV6那些事](http://www.jianshu.com/p/69ed4489762c)
+
+__3__.[搭建IPV6测试环境](http://www.jianshu.com/p/632d995749e1#)
+
 #####Swift PhotoKit
 __1__.[iOS开发之Swift初体验PhotoKit](http://allluckly.cn/%E6%8A%95%E7%A8%BF/tuogao44)
 
