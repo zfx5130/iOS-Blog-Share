@@ -719,3 +719,8 @@ __1__.[码市项目](https://mart.coding.net/projects)
 __2__.[实现网](http://shixian.com/)
 
 __3__.[程序员如何优雅的挣零花钱？](https://github.com/easychen/howto-make-more-money)
+
+
+###### 技术人员的发展之路
+
+__1__.[技术人员的发展之路](http://www.cocoachina.com/programmer/20161229/18469.html)
