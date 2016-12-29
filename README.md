@@ -724,3 +724,13 @@ __3__.[程序员如何优雅的挣零花钱？](https://github.com/easychen/howt
 ###### 技术人员的发展之路
 
 __1__.[技术人员的发展之路](http://www.cocoachina.com/programmer/20161229/18469.html)
+
+
+###### 微信小程序
+
+__1__.[微信小程序](http://www.cocoachina.com/industry/20161229/18475.html)
+__2__.[微信小程序](https://github.com/alanwangmodify/weChatApp-Run)
+
+##### 使用 JavascriptCore 与 UIWebView 进行交互
+
+__1__.[使用 JavascriptCore 与 UIWebView 进行交互](http://www.jianshu.com/p/3bab7a203c30)
