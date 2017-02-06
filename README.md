@@ -734,3 +734,7 @@ __2__.[微信小程序](https://github.com/alanwangmodify/weChatApp-Run)
 ##### 使用 JavascriptCore 与 UIWebView 进行交互
 
 __1__.[使用 JavascriptCore 与 UIWebView 进行交互](http://www.jianshu.com/p/3bab7a203c30)
+
+#####Swift 开源项目精选
+
+__1__.[Swift 开源项目精选](https://github.com/ipader/SwiftGuide/blob/master/Featured.md)
