@@ -742,3 +742,9 @@ __1__.[Swift 开源项目精选](https://github.com/ipader/SwiftGuide/blob/maste
 #####Xcode快捷键
 
 __1__.[Xcode快捷键](http://nshipster.cn/xcode-key-bindings-and-gestures/)
+
+######iOS CSDN知识库
+__1__[csdn知识库](http://lib.csdn.net/base/ios/structure#-fl)
+
+######视频直播博客
+__1__[视频直播相关博客](http://www.jianshu.com/u/b09c3959ab3b)
