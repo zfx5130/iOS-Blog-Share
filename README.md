@@ -751,6 +751,8 @@ __1__[csdn知识库](http://lib.csdn.net/base/ios/structure#-fl)
 ######视频直播博客
 __1__[视频直播相关博客](http://www.jianshu.com/u/b09c3959ab3b)
 
+__2__[研发直播APP的收获-iOS](http://www.jianshu.com/p/d99e83cab39a)
+
 ######给iOS开发者的Sketch入门教程 
 __1__.[给iOS开发者的Sketch入门教程](http://www.cocoachina.com/ios/20160216/15264.html)
 
