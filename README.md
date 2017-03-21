@@ -2,9 +2,6 @@
 
 ###收集一些自己日常工作和学习中遇到的好的博客和技术网站(持续更新中..)
 
-[![head]](http://blog.csdn.net/zfx5130?viewmode=contents)
-[head]:https://raw.githubusercontent.com/zfx5130/iOS-Blog-Share/master/shotImage/icon.png "点击图片进入我的博客"
-
 
 #####一.iOS学习资料类
 __1__.[斯坦福iOS8课程](https://github.com/X140Yu/Developing_iOS_8_Apps_With_Swift
