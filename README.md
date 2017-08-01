@@ -325,7 +325,7 @@ __2__.[Bison教你3分钟集成支付宝好友分享](http://www.jianshu.com/p/0
 #####GCD使用
 __1__.[细说GCD（Grand Central Dispatch）如何用](http://www.jianshu.com/p/fbe6a654604c)
 
-#####事件响应链 
+#####事件响应链
 
 __1__.[事件传递响应链](http://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=402300621&idx=2&sn=e0d201d397756d6f7f6620e82dc4247a&scene=23&srcid=0114Tm4O9lAJm0seONFc2hMT#rd)
 
@@ -360,7 +360,7 @@ __1__.[ios开发时，在Xcode中添加多个targets进行版本控制](http://b
 
 __2__.[如何使用Xcode的Targets来管理开发和生产版本的构建](http://www.cocoachina.com/ios/20160331/15832.html)
 
-#####iOS开发的一些奇巧淫技 
+#####iOS开发的一些奇巧淫技
 
 __1__.[好编程的技巧](http://www.cocoachina.com/ios/20141229/10783.html)
 
@@ -382,11 +382,11 @@ __1__.[开源项目](http://www.jianshu.com/p/3625796aaf98)
 
 __2__.[KYGooeyMenu](https://github.com/KittenYang/KYGooeyMenu)：
 
-__3__.[一个支持夜间模式切换的框架](https://github.com/Draveness/DKNightVersion) 
+__3__.[一个支持夜间模式切换的框架](https://github.com/Draveness/DKNightVersion)
 
 __4__.[是一个方便缓存UITableViewCell的高度的框架。](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell)
 
-__5__.[IOS-Categories 是一个收集各种有用的 Objective-C 语言的 Category 的项目](https://github.com/shaojiankui/IOS-Categories) 
+__5__.[IOS-Categories 是一个收集各种有用的 Objective-C 语言的 Category 的项目](https://github.com/shaojiankui/IOS-Categories)
 
 #####关于使用第三方app的使用到的知识点
 
@@ -654,7 +654,7 @@ __1__.[ios 高效的写好一个UI界面](http://www.jianshu.com/p/63ee533a7705)
 ######iOS 本地自动打包工具
 __1__.[iOS 本地自动打包工具](http://www.jianshu.com/p/3e07a02ab948)
 
-######30分钟掌握这8种页面布局 
+######30分钟掌握这8种页面布局
 __1__.[30分钟掌握这8种页面布局 ](http://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=2652547380&idx=3&sn=1a177648fffa8139db95aafb81953bf8&scene=1&srcid=0825mtMZBdrO5wCuTmSz2GdM#rd)
 
 ######iOS 一分钟搞定加入购物车的交互动画
@@ -668,3 +668,6 @@ __1__.[Typora For Markdown 语法](http://www.jianshu.com/p/092de536d948)
 
 1.[iOS 在 Xcode 中重命名项目名称](http://www.jianshu.com/p/5f088acecf64)
 
+##### 如何项目优化
+
+1.[iOS如何项目优化](http://www.cocoachina.com/ios/20170725/20001.html)
