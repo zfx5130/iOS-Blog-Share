@@ -77,6 +77,8 @@ __35__.[Vue学习资料](http://www.imooc.com/learn/694)
 
 __36__.[Vue.js学习资料](http://cn.vuejs.org/v2/examples/)
 
+__37__.[APPSight查看app使用的第三方](https://www.appsight.io/?q=uma)
+
 ###### 简述iOS专题系列
 __1__.[iOS开发技巧](http://www.jianshu.com/collection/19dbe28002a3)
 
@@ -754,5 +756,11 @@ __2__[研发直播APP的收获-iOS](http://www.jianshu.com/p/d99e83cab39a)
 ###### 给iOS开发者的Sketch入门教程 
 __1__.[给iOS开发者的Sketch入门教程](http://www.cocoachina.com/ios/20160216/15264.html)
 
-####### Xcode模板修改
+###### Xcode模板修改
 __1__.[Xcode模板修改](http://www.jianshu.com/p/e5028789bcbc)
+
+###### AFNetworking分析
+__1__.[AFNetworking](https://segmentfault.com/a/1190000005022705)
+
+###### React
+__1__[React使用说明](http://www.ruanyifeng.com/blog/2015/03/react.html)
