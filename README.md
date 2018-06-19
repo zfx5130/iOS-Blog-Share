@@ -767,3 +767,7 @@ __1__[React使用说明](http://www.ruanyifeng.com/blog/2015/03/react.html)
 
 ##### 如何完美的修改项目名称
 __1__[如何完美的修改项目名称](https://www.jianshu.com/p/2887d6fb5769)
+
+
+##### 如何分析线上bug
+__1__[如何分析线上Bug](https://blog.csdn.net/qq_15509071/article/details/53501925)
